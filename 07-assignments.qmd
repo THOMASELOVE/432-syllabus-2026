@@ -43,7 +43,7 @@ Each lab is associated with a deadline. Late work is penalized (see information 
 
 1. When writing anything for this course in English, use complete sentences, not just bullet points.
 2. Clearly mark each Question in each Lab. There is no need to repeat the question before answering it, although you are welcome to do so.
-3. You are welcome to discuss each Lab with anyone, including Professor Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours and Campuswire.
+3. You are welcome to discuss each Lab with anyone, including Professor Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours and **431-help at case dot edu**.
 4. Don't leave anything until the last day. Allow time for computer problems.
 
 ## Quizzes
@@ -61,7 +61,7 @@ You will receive access to the quiz several days before it is due, and each quiz
 3. All questions involve relatively short responses, sometimes after working through a detailed analysis.
 4. You will have the opportunity to edit your responses after completing the Quiz, but this must be completed by the deadline.
 5. You are welcome (even encouraged) to consult the materials provided on the course website, but you are **not** allowed to discuss the questions on the Quizzes with anyone other than Professor Love or the teaching assistants.
-6. We do not guarantee to answer questions we receive about the Quiz less than 3 hours prior to the Quiz submission deadline. As noted above, we will most likely **not** use Campuswire for Quiz questions, but instead an alternate approach we will provide to you with each quiz.
+6. We do not guarantee to answer questions we receive about the Quiz less than 3 hours prior to the Quiz submission deadline. We will provide a way to ask questions as part of the Quiz instructions.
 7. Quizzes that are more than an hour late will **not** be accepted, except in truly remarkable circumstances.
 8. An answer sketch for each Quiz will be made available within 48 hours of the deadline. 
 9. Grades for the Quizzes are usually available within 48 hours of the deadline. 
