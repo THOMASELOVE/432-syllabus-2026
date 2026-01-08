@@ -12,10 +12,11 @@ Course grades are based primarily on performance on labs, projects and quizzes. 
 
 To obtain your final class score, we will combine these elements as follows:
 
-- 35% for Labs
-- 40% for Projects
-- 25% for Quizzes
-- plus 0 to 5% for potential "bonus points"
+- 30% for Labs
+- 35% for Projects
+- 30% for Quizzes
+- 5% for completion of all Minute Papers and the Welcome Survey
+- and up to an additional 5 bonus points for students who participate most actively in the class
 
 Professor Love will then determine your final course grade using the following scale:
 
@@ -23,7 +24,7 @@ Professor Love will then determine your final course grade using the following s
 - course averages of 85.0% to 87.9% will be reviewed more closely to determine whether the grade will be A or B
 - course averages of 70.0% to 84.9% will receive a B
 
-For students in the 85.0-87.9% range, students who have improved from the first half of the course to the second will be more likely to receive an A than those whose performance has declined. 
+For students in the 85.0-87.9% range, students who have improved from the first half of the course to the second will be more likely to receive an A than those whose performance has declined.
 
 Students whose course average is near or below 70% usually have failed to complete some element of the course, and need to take an Incomplete to complete their work before I assign a final grade. We follow the University's Incomplete Policy, [as described here](10-policies.qmd).
 
@@ -37,11 +38,11 @@ Students receive bonus credit at Dr. Love's discretion, based on things like the
 - completing (in a timely fashion) special "partially hidden" tasks that Professor Love buries within longer documents to ascertain whether or not you're reading these documents effectively. For an example, see section 9.7 of this Syllabus.
 - plus a few other things that come under the general heading of "being helpful."
 
-Bonus credit is capped across the semester so that no one's score can fall and that no one's final score will increase by more than 5 points.
+Bonus credit is capped across the semester so that no one's score can fall and that no one's final score will increase by more than 5 points. A majority of students will receive 1-3 bonus points.
 
 ## Grading Labs
 
-Most Labs will be graded by the Teaching Assistants, according to a rubric and answer sketch. In grading labs, everything counts, including the quality of the presentation, as well as the coding and statistical work. 
+All Labs (except Lab 5) will be graded by the Teaching Assistants, according to a rubric and answer sketch. In grading labs, everything counts, including the quality of the presentation, as well as the coding and statistical work. 
 
 For each Lab we publish a detailed answer sketch (48 hours after the submission deadline). Later, when the grades become available (roughly one week after the deadline) you will also receive the grading rubric used by the teaching assistants. You should expect to receive your grade on each Lab you submit on time roughly one week after the deadline. Along with the grade, on-time labs will receive modest feedback about the work. 
 
@@ -49,10 +50,8 @@ All Labs should be turned in by the deadline specified on the [Course Calendar](
 
 - To receive full credit on a Lab, it must be received on Canvas no later than 59 minutes after the posted deadline. (This allows for small issues with uploading to Canvas to occur without penalty.)
 - Work submitted 1 to 48 hours after the deadline will lose 5 of the available 50 points.
-- Work submitted more than 48 hours after the deadline will not be graded.
-
-You are permitted to skip exactly one of Labs 1-4. If you decide to skip a lab, please submit a note to Canvas by the deadline saying that you are skipping the lab. All students must complete Labs 5, 6, and 7.
-- Should you run the risk of needing to miss more than one lab during the semester, contact Professor Love via email.
+- Work submitted more than 48 hours after the deadline will receive a grade of 30.
+- You must complete all 7 labs to pass the course. 432 students are not permitted to "skip" a Lab.
 
 ## Lab Appeal Policy - Request a Review via Google Form
 
