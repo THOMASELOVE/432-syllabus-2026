@@ -1,0 +1,622 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "432 Syllabus for Spring 2026",
+    "section": "",
+    "text": "Welcome!\nThis is the Spring 2026 syllabus for PQHS / CRSP / MPHP 432: Data Science for Biological, Medical and Health Research II, taught by Professor Thomas E. Love.",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "index.html#working-with-this-document",
+    "href": "index.html#working-with-this-document",
+    "title": "432 Syllabus for Spring 2026",
+    "section": "Working With This Document",
+    "text": "Working With This Document\n\nThis document includes multiple sections. Use the table of contents to navigate, and the search box as needed.\nA PDF download of this document is available by clicking the Acrobat icon next to the title at the top left of the screen.\nThe document will be updated occasionally through the semester.",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "index.html#who-when-and-where",
+    "href": "index.html#who-when-and-where",
+    "title": "432 Syllabus for Spring 2026",
+    "section": "Who, When and Where?",
+    "text": "Who, When and Where?\n\nThe course instructor is Professor Thomas E. Love.\n\nEmail him at Thomas dot Love at case dot edu if you have any questions before class.\n\nThis year’s course will be given virtually (via Zoom) until Spring Break, and then in person after that.\nThe course is given in person on Tuesdays and Thursdays from 1:00 to 2:15 PM Eastern Time in Room E321-323 in Robbins Hall, within CWRU’s School of Medicine beginning 2026-01-13.\nThe main course website is at https://thomaselove.github.io/432-2026/\nThere are several teaching assistants helping with the course this semester.\n\nThe Teaching Assistants will hold regular office hours over Zoom, and the schedule for these sessions will be found on the Contact Us page and the Course Calendar.\n\n\nOutside of class, general questions about course materials in Teaching Assistant Office Hours or via email to 431-help at case dot edu (note that’s 431, not 432.) The Getting Help section of this syllabus provides some additional resources.",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "index.html#contact-information",
+    "href": "index.html#contact-information",
+    "title": "432 Syllabus for Spring 2026",
+    "section": "Contact Information",
+    "text": "Contact Information\nProfessor Love’s email is Thomas dot Love at case dot edu. Professor Love’s office at CWRU is on the ground floor of the Wood building (in the WG-82 Suite), specifically WG-82J. Email him if you need an appointment, either in person or via Zoom.\n\nIf you have any unique concerns about the course, need special accommodations or have any other issues you want to discuss with Professor Love specifically, please email him directly.",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "01-gettingstarted.html",
+    "href": "01-gettingstarted.html",
+    "title": "1  Getting Started",
+    "section": "",
+    "text": "Your first six steps in this course are to:\n\nRegister and enroll via the CWRU Student Information System (SIS).\n\nSection 1 of PQHS 432, CRSP 432 and MPHP 432 are identical.\n\nReview the course website, and be sure to visit the Course Calendar, and skim through the Course Syllabus.\nYou need to buy Jeff Leek’s How to be a Modern Scientist, available electronically through https://leanpub.com/modernscientist. It is 81 pages long. The suggested cost is $10, but you can pay what you want.\nPlease fill out the Welcome to 432 Survey at https://bit.ly/432-2025-welcome-survey to help us get to know you a little better. Note that you must log into Google via your CWRU account in order to access the survey, which should take about 10 minutes to complete.\nGet started installing or updating the software you’ll need for the course.\nAttend our first class session starting at 1 PM on 2026-01-13.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "02-description.html",
+    "href": "02-description.html",
+    "title": "2  Course Description",
+    "section": "",
+    "text": "2.1 Course Objectives\nPQHS 432 (cross-listed as CRSP 432 and MPHP 432) is the second half of a two-semester sequence (with 431) focused on modern data analysis and advanced statistical modeling, with a practical bent and as little theory as possible. We emphasize the key roles of thinking hard, and well, about design and analysis in research.\nThe course is formally titled Statistical Methods in Biological & Medical Sciences, Part 2. A more accurate title is Data Science for Biological, Medical or Health Research.\nWe’ll learn about managing and visualizing data, building models and making predictions, and other data science activities. This highly applied course focuses on modern tools for learning from data. We’ll learn a lot of R, and we’ll use RStudio and Quarto as tools to help make R work better, and help perform our research in rigorous and replicable ways.\nDuring the 431-432 sequence, students will:\nThis is NOT a course in mathematical statistics or statistical inference. It’s far more applied than that.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course Description</span>"
+    ]
+  },
+  {
+    "objectID": "02-description.html#course-objectives",
+    "href": "02-description.html#course-objectives",
+    "title": "2  Course Description",
+    "section": "",
+    "text": "Use modern data science tools to import, tidy/manage, explore (through transformation, visualization and modeling) and communicate about data.\nThink hard and well about rigorous design and analysis in scientific research.\nGain sufficient background in the practical issues regarding linear and generalized linear models to give you a starting place for meaningful applied work, particularly in terms of making comparisons to address general types of statistical and analytic questions (exploratory, predictive, inferential, and causal, in particular.)\nLearn about the importance of replicable research, and develop facility and practice in open source tools for doing it.\nComplete a series of assignments (labs, projects and quizzes) designed to help you demonstrate what you’ve learned.\nProgram (“Code”) in R sufficiently to accomplish the tasks above, with enough self-sufficiency afterwards to be able to debug and use new R tools without substantial troubleshooting help. What separates “doing data science” from “doing data analysis” is programming.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course Description</span>"
+    ]
+  },
+  {
+    "objectID": "02-description.html#key-topics-in-431-432",
+    "href": "02-description.html#key-topics-in-431-432",
+    "title": "2  Course Description",
+    "section": "2.2 Key Topics in 431-432",
+    "text": "2.2 Key Topics in 431-432\n\nExploratory Data Analysis: “All graphs are comparisons” including data exploration, statistical graphics and more general visualization of information.\nPlacing biological, medical and health research questions into a statistical framework.\nStudy Development - making choices in designing and executing the collection and aggregation of data.\nData Handling - including important issues in importing, tidying and transforming data, as well as methods for dealing with missing data, including imputation.\nStatistical Comparisons: “All of statistics are comparisons” - including methods for discrete and continuous variables: intervals, assumptions, some thoughts on statistical power, and the bootstrap, design of visualizations and models for rates, proportions and contingency tables.\nThe proper and rigorous use of multi-predictor models for continuous and discrete data, including…\n\nFitting, evaluating, and interpreting linear and generalized linear models.\nPrediction and validation.\nCritical role of graphics, including diagnostics and residual analysis.\nModel choice, including variable selection, shrinkage and model uncertainty.\nDealing with categorical predictors and interactions meaningfully.\n\nUsing R and RStudio to make all of the things above happen; with particular emphasis on doing replicable research and using Quarto) to document the work in a replicable way.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course Description</span>"
+    ]
+  },
+  {
+    "objectID": "02-description.html#course-outline-format",
+    "href": "02-description.html#course-outline-format",
+    "title": "2  Course Description",
+    "section": "2.3 432 Course Outline & Format",
+    "text": "2.3 432 Course Outline & Format\nThe main group sessions for the 432 course will include two dozen in-person lecture sessions led by Professor Love, to be held on Tuesdays and Thursdays from 1:00 to 2:15 PM.\n\nThe Course Calendar provides additional detail on specific sessions, and links to materials used in those sessions, including slides.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course Description</span>"
+    ]
+  },
+  {
+    "objectID": "03-drlove.html",
+    "href": "03-drlove.html",
+    "title": "3  Professor Love",
+    "section": "",
+    "text": "3.1 A More Complete Biography\nHi. I am Thomas E. Love, Ph.D. and I have at least three different jobs.\nIn research, I use statistical methods to look at questions in health policy and in particular the provision of health services. I mostly work with observational data, rather than data that emerge from randomized clinical trials, and I have a special interest in working with data from electronic health records.\nIf you want to see a pretty complete list of my publications, knock yourself out.\nI hold degrees from Columbia University in the City of New York and from the University of Pennsylvania. My dissertation adviser was Paul Rosenbaum. I am married to a brilliant woman who is an attorney at Savant Systems, and we are raising two terrific sons. The elder holds an MS in Data Science at Carnegie Mellon University in Pittsburgh, and the younger is in his second year of law school at Fordham University in New York. We live in Shaker Heights. I sing and act occasionally in community theater, do lots of puzzles and play golf when I can.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Professor Love</span>"
+    ]
+  },
+  {
+    "objectID": "03-drlove.html#a-more-complete-biography",
+    "href": "03-drlove.html#a-more-complete-biography",
+    "title": "3  Professor Love",
+    "section": "",
+    "text": "I am a Professor in the Departments of Medicine and of Population & Quantitative Health Sciences at Case Western Reserve University. I teach three courses per year there (PQHS 431, 432 and 500) and also lead the Health Care Analytics track of the MS program in Biostatistics.\nI direct Biostatistics and Data Science at the Population Health Research Institute and at the Center for Health Care Research and Policy at The MetroHealth System.\nFor ten years, I was the (founding) Data Director for Better Health Partnership, an alliance of people who provide, pay for and receive care in Northeast Ohio. I still consult occasionally with them and hold the position of Chief Data Scientist there.\nI am a Fellow of the American Statistical Association, and have won numerous awards for my teaching and my research, including the 2018 John S. Diekhoff Award for Graduate Teaching from CWRU.\nI have been teaching at CWRU since 1994, and have taught every manner of CWRU student over the years, especially students in biostatistics, medicine, and management.\n\n\n\nYou may be interested in a study in Health Affairs showing the impact of a Medicaid-like expansion plan on care and outcomes of poor patients in Cleveland.\nOr you might be interested in our New England Journal of Medicine study of the effect of electronic health records on the care and outcomes of people with diabetes.\nIn 2011, James O’Malley and I chaired the Ninth International Conference on Health Policy Statistics, here in Cleveland. Here’s a recap.\nI’ve also worked on many projects involving the use of propensity scores to make causal inferences from observational studies, particularly in heart failure.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Professor Love</span>"
+    ]
+  },
+  {
+    "objectID": "03-drlove.html#email",
+    "href": "03-drlove.html#email",
+    "title": "3  Professor Love",
+    "section": "3.2 Email",
+    "text": "3.2 Email\n\nThomas dot Love at case dot edu (for matters related to grades or individual concerns)\nI am available after class to chat.\nRemember we have several ways for you to get help with the 432 course.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Professor Love</span>"
+    ]
+  },
+  {
+    "objectID": "03-drlove.html#name-and-pronouns",
+    "href": "03-drlove.html#name-and-pronouns",
+    "title": "3  Professor Love",
+    "section": "3.3 Name and Pronouns",
+    "text": "3.3 Name and Pronouns\n\nI use he/him/his pronouns.\nMost students refer to me either as Professor Love or Dr. Love.\nI prefer my given name to be written “Thomas” as opposed to “Tom”.\nMost of my friends and colleagues call me “Tom”. You are welcome to do so, as well, if that makes you more comfortable.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Professor Love</span>"
+    ]
+  },
+  {
+    "objectID": "03-drlove.html#web",
+    "href": "03-drlove.html#web",
+    "title": "3  Professor Love",
+    "section": "3.4 Web",
+    "text": "3.4 Web\n\nMy GitHub name is THOMASELOVE.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Professor Love</span>"
+    ]
+  },
+  {
+    "objectID": "04-teachingassistants.html",
+    "href": "04-teachingassistants.html",
+    "title": "4  Teaching Assistants",
+    "section": "",
+    "text": "4.1 TA office hours\nThis year’s stellar group of teaching assistants have been in your shoes - they’ve taken the course in the past, and they enjoyed it enough to come back for more. They are volunteering their precious time and energy to help make the course happen, and we couldn’t be more delighted to welcome you to the course. All office hours and all teaching assistant work will be done remotely.\nThere is a lot to learn in this class. Don’t suffer in silence - talk to us! As mentioned earlier, you shouldn’t spend more than 15 minutes struggling with anything in this class without asking for help.\nVisit the Getting Help with 432 section of this Syllabus for more details.\nTA office hours are held via Zoom, will begin in mid-January and continue through the end of the semester, excluding Spring Break and Martin Luther King Day. The weekly schedule appears on our Contact Us page as well as our Course Calendar.\nProfessor Love will also hold “office hours” after each class to the extent possible.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Teaching Assistants</span>"
+    ]
+  },
+  {
+    "objectID": "04-teachingassistants.html#ta-office-hours",
+    "href": "04-teachingassistants.html#ta-office-hours",
+    "title": "4  Teaching Assistants",
+    "section": "",
+    "text": "Our Shared Google Drive (PQHS 432 Spring 2026 Dr Love and Students) will contain Zoom links for each of these sessions.\n\nNo appointment is necessary. Please just drop in.\nBe sure to log into Google via CWRU to access the shared Drive.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Teaching Assistants</span>"
+    ]
+  },
+  {
+    "objectID": "04-teachingassistants.html#getting-to-know-the-tas",
+    "href": "04-teachingassistants.html#getting-to-know-the-tas",
+    "title": "4  Teaching Assistants",
+    "section": "4.2 Getting To Know The TAs",
+    "text": "4.2 Getting To Know The TAs\nThe Spring 2026 Teaching Assistants for 432 are:\n\n\n\n\n\n\n\n\nTA Name\nFor more, visit\nCurrent Roles and CWRU Experiences\n\n\n\n\nMonika Strah\nSection 4.2.1\nLead TA, PhD candidate, Clinical Translational Science\n\n\nCarly DaCosta\nSection 4.2.2\nPhD Candidate, Epidemiology & Biostatistics\n\n\nHala Nas\nSection 4.2.3\nMS graduate, Pulmonary/Critical Care MD, Cleveland Clinic\n\n\nKatherine Papahadjopoulos\nSection 4.2.4\nMPH graduate, Research Coordinator, Cleveland Clinic\n\n\nKathryn Menta\nSection 4.2.5\nPhD Candidate, Epidemiology & Biostatistics\n\n\nMarie Masotya\nSection 4.2.6\nPhD candidate, Clinical Translational Science\n\n\nMorgan McLoughlin\nSection 4.2.7\nPhD candidate, Clinical Psychology\n\n\nRia Tilve\nSection 4.2.8\nMPH at CWRU, Medical Student\n\n\nTatchaporn Ongphichetmetha\nSection 4.2.9\nPhD candidate, Clinical Translational Science\n\n\nWala’a Alshaia\nSection 4.2.10\nPhD candidate, Clinical Translational Science\n\n\n\n\n4.2.1 Monika Strah\n\n\n\nMonika Strah\n\n\nMonika Strah is a Ph.D. candidate in Clinical Translational Science and a graduate of CWRU’s Biostatistics M.S. program. She is looking forward to returning as a Teaching Assistant for PQHS 431/432 and also enjoyed working as a TA for PQHS 453. Monika’s research has included mathematical approaches to questions in population genetics and human evolution, examining dietary factors associated with lung cancer risk and analysis of multiple sclerosis related fatigue management strategies. Monika enjoys reading, hiking and is a member of the National Ski Patrol.\n\n\n4.2.2 Carly DaCosta\n\n\n\nCarly DaCosta\n\n\nCarly is a PhD student in the Epidemiology and Biostatistics program in the Department of Population and Quantitative Health Sciences. She moved to Cleveland two years ago to join Case Western’s Postbaccalaureate Research Education Program (CasePREP), where she conducted a computational research project exploring the genetic components of postpartum depression in African American women. Originally from California, Carly earned her Bachelor’s degree at San Diego State University before relocating to Ohio. Outside of her academic work, she enjoys baking, spending time with her cat Toby, and competing in Olympic Weightlifting.\n\n\n4.2.3 Hala Nas\n\n\n\nHala Nas\n\n\nHala is a pulmonary and critical care physician at the Cleveland Clinic. Her areas of interest are lung cancer and pleural diseases. She completed her MS in Clinical Research in May of 2024. Her research areas of interest include methodology and guideline synthesis in interventional pulmonary and pleural procedures, as well as large data analysis in lung cancer. In her free time, she enjoys traveling, hiking, reading crime fiction and cooking.\n\n\n4.2.4 Katherine Papahadjopoulos\n\n\n\nKatherine Papahadjopoulos\n\n\nKatherine Papahadjopoulos is a recent graduate of CWRU’s IGS MPH program with concentrations in Population Health Research and Health Promotion & Disease Prevention. She is currently a Research Coordinator at the Cleveland Clinic in the Pediatric Cardiology department. The skills and knowledge she obtained from 431/432 have been instrumental in her work and research. Outside of work and research, Katherine enjoys photography, cooking, traveling, reading, and playing with her dogs.\n\n\n4.2.5 Kathryn Menta\n\n\n\nKathryn Menta\n\n\nKathryn Menta is a third year PhD student in Epidemiology and Biostatistics within the Department of Population & Quantitative Health Sciences. She worked as a crime scene investigator and forensic DNA technician for about seven years before returning to school to complete a new BS in mathematics and statistics at the University of Missouri, Kansas City. She then completed both a Master’s in mathematics and a Master’s in statistics at the same institution before coming to CWRU to start her PhD. Her current research is in dynamic treatment regimens focusing on clinical decision making for multiple sclerosis drug treatments. Outside of school, Kathryn enjoys spending time with her husband and two cats, crafting, and binge watching numerous true crime shows and podcasts.\n\n\n4.2.6 Marie Masotya\n\n\n\nMarie Masotya\n\n\nMarie Masotya, MPH, is a PhD candidate in the Clinical Translational Science program. She is Senior Research Coordinator at University Hospitals (UH) Rainbow Center for Child Health and Policy where she manages research, quality and community-based projects. She is involved in several multi-sectoral community partnerships focused on child health and health equity. These include Better Health Partnership, Lead Safe Cleveland Coalition, and a school-based asthma intervention for elementary school children in Cleveland Metropolitan School District. Marie served as a TA for 431/432 last year and looks forward to assisting again this year. Her best advice: start early and don’t hesitate to ask for help. When not doing research, you will find her enjoying live theater, music, and adventures with her spouse and 3 children.\n\n\n4.2.7 Morgan McLoughlin\n\n\n\nMorgan McLoughlin\n\n\nMorgan McLoughlin is a third-year student in the Clinical Psychology PhD program at CWRU, studying parent-child relationships, parenting interventions, and patient experiences and preferences in mental health treatment. Originally from Berkeley and Los Angeles, California, he held research positions at UC Irvine and the University of Pittsburgh before moving to Cleveland two years ago. He enjoys going to museums and theater performances around the city as well as visiting hiking trails and karaoke bars. At CWRU, he also helps run the Tea and Chocolate club (Instagram @cwru_tea_chocolate), a campus group organizing monthly social events for graduate and professional students. As a former K-12 educator, he enjoys teaching and mentoring and is excited to serve as a TA for the 431 course.\n\n\n4.2.8 Ria Tilve\n\n\n\nRia Tilve\n\n\nRia Tilve is a third year medical student at CWRU. After completing her bachelor’s in Biochemistry, she obtained her MPH in Population Health Research at CWRU. Her current research focuses on musculoskeletal health and biomedical imaging. Ria took 431 and 432 during the 2021-2022 school year, and she is applying those skills in her research projects. Outside of studying, Ria enjoys spending time with her family, running, watching sports, and exploring new places.\n\n\n4.2.9 Tatchaporn Ongphichetmetha\n\n\n\nTatchaporn Ongphichetmetha\n\n\nTatchaporn Ongphichetmetha is a Ph.D. student in Clinical Translational Science at CWRU and a research fellow at the Cleveland Clinic Mellen Center for Multiple Sclerosis. Her research interests include autoimmune neurological disorders and multiple sclerosis. She completed her medical degree and neurology training in Thailand. During the 2024-2025 academic year, Tatchaporn took 431 and 432, and she is now applying those skills to her own research projects. Outside of her studies, she enjoys spending time with her family, traveling, and baking.\n\n\n4.2.10 Walaa Alshaia\n\n\n\nWala’a Alshaia\n\n\nWala’a Alshaia is a PhD student in the Clinical Translational Science program. She earned her undergraduate degree in Clinical Nutrition from Imam Abdulrahman bin Faisal University and a Master of Science in Human Nutrition from Columbia University. Her current research focuses on the dynamic interplay between modifiable lifestyle factors and cancer risk in individuals with inherited genetic predispositions. Wala’a remembers the impact of TA support when she was a student in 431 in Fall 2023 and is excited to offer that same guidance this semester. Beyond her academic work, she enjoys practicing Arabic calligraphy, brewing coffee with a good friend, and embracing new adventures.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Teaching Assistants</span>"
+    ]
+  },
+  {
+    "objectID": "05-gettinghelp.html",
+    "href": "05-gettinghelp.html",
+    "title": "5  Getting Help with 432",
+    "section": "",
+    "text": "5.1 You can email 431-help at case dot edu\nData science and statistical programming can be difficult. Computers are stupid and little errors in your code can cause hours of frustration (even if you’ve been doing this stuff for years!). You shouldn’t spend more than 15 minutes struggling with anything in this class without asking for help.\nWe are fully committed to making sure that you learn everything you were hoping to learn from this class. If you tell us you’re having trouble, I will not judge you or think less of you. I hope you’ll extend me the same grace. You never owe us personal information about your health (mental or physical). If you need extra help, or if you need more time with something, or if you feel like you’re behind or not understanding everything, do not suffer in silence! Talk to us! We will work with you.\nOnce the course begins, you have several ways to get help from us:\nDr. Love and the TAs monitor this email. Note that we use 431-help (rather than 432) for this course.\nIn general, we don’t have a way to diagnose your problem with R, RStudio or Quarto if you don’t show us what you’re typing that causes an error, or a lack of results. If you wrote a Quarto file, we need to see it, along with a specific question (or series of them) about specific error messages or strange results you are getting. We need to replicate the problem in order to know how to fix your problem, and it also helps if we know what error message you’re seeing, or what strange result you are getting.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Getting Help with 432</span>"
+    ]
+  },
+  {
+    "objectID": "05-gettinghelp.html#ta-office-hours-is-the-place-to-get-one-on-one-help-for-432",
+    "href": "05-gettinghelp.html#ta-office-hours-is-the-place-to-get-one-on-one-help-for-432",
+    "title": "5  Getting Help with 432",
+    "section": "5.2 TA Office Hours is the place to get one-on-one help for 432",
+    "text": "5.2 TA Office Hours is the place to get one-on-one help for 432\nYou are strongly encouraged to visit TAs during office hours that are convenient for you, whenever you need help with the course. This is the best way to get one-on-one help, or try out a new idea.\n\nTeaching Assistant (TA) office hours will be held via Zoom.\nThe schedule for TA office hours appears on the Course Calendar, and on our Contact Us page.\nOffice Hours are held for your benefit. Please visit the TAs, especially if you have questions about how to do things in R, or about the content of the class slides or course notes. They’re volunteering their time to help you, and most of them have been in your shoes in previous years. They want to help you!\nMore information on the TAs is available here.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Getting Help with 432</span>"
+    ]
+  },
+  {
+    "objectID": "05-gettinghelp.html#how-well-use-canvas",
+    "href": "05-gettinghelp.html#how-well-use-canvas",
+    "title": "5  Getting Help with 432",
+    "section": "5.3 How We’ll Use Canvas",
+    "text": "5.3 How We’ll Use Canvas\nThe course’s primary listing on Canvas is PQHS 432, but students in CRSP 432 and MPHP 432 should find the same information. We’ll use the Canvas platform for (at most) two things:\n\n(definitely) turning in lab and project assignments\n(maybe) providing information about (and maintaining recordings of) our class sessions\n\nVisit https://canvas.case.edu/ to log in and see what’s available there.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Getting Help with 432</span>"
+    ]
+  },
+  {
+    "objectID": "05-gettinghelp.html#how-well-use-google-drive",
+    "href": "05-gettinghelp.html#how-well-use-google-drive",
+    "title": "5  Getting Help with 432",
+    "section": "5.4 How We’ll Use Google Drive",
+    "text": "5.4 How We’ll Use Google Drive\nProfessor Love will share some data and some other materials (answer sketches for lab assignments, and feedback on minute papers, as well as a grading roster) through a Shared Google Drive. You will need to log into Google through your CWRU account in order to view and use these materials. Visit the Key Links section of our course website to see more.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Getting Help with 432</span>"
+    ]
+  },
+  {
+    "objectID": "05-gettinghelp.html#meeting-with-professor-love",
+    "href": "05-gettinghelp.html#meeting-with-professor-love",
+    "title": "5  Getting Help with 432",
+    "section": "5.5 Meeting with Professor Love",
+    "text": "5.5 Meeting with Professor Love\nProfessor Love does not hold regular office hours. He will stay after class to address any drop-in student concerns that can be addressed in that setting.\n\nIf you have any unique concerns about the course, need special accommodations or have any other issues you want to discuss with Professor Love specifically, please email him (Thomas dot Love at case dot edu) and he’ll respond as quickly as possible.\nRemember that most questions about course materials are best asked through Campuswire or at TA Office Hours so that we can share the answers across all students in the course.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Getting Help with 432</span>"
+    ]
+  },
+  {
+    "objectID": "05-gettinghelp.html#other-sources-of-help",
+    "href": "05-gettinghelp.html#other-sources-of-help",
+    "title": "5  Getting Help with 432",
+    "section": "5.6 Other Sources of Help",
+    "text": "5.6 Other Sources of Help\nIn addition, there are many, many online resources to help you learn R beyond those we provide.\n\nBuilding internet searches (“googling”) effectively is an important skill that requires practice. Don’t be afraid to use search engines to figure out how to code things in R, for example.\nThe RStudio Community is a forum specifically designed for people using RStudio and the tidyverse (and that will be you.)\nA comprehensive guide to using Quarto is available here.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Getting Help with 432</span>"
+    ]
+  },
+  {
+    "objectID": "06-texts.html",
+    "href": "06-texts.html",
+    "title": "6  Required Texts",
+    "section": "",
+    "text": "6.1 Course Notes\nProfessor Love maintains a set of Course Notes, titled Data Science for Biological, Medical and Health Research: Notes for 432. Professor Love revises the Notes annually, and various updates will appear as the semester progresses.\nAlthough these Notes share some of the features of a textbook, they are neither comprehensive nor completely original. The main purpose is to give 432 students a set of common materials on which to draw during the course, providing a series of examples using R to work through issues that are likely to come up during the semester, and in later work.\nIn addition, slides and video recordings from each of Professor Love’s lectures, plus other in-class materials will be posted for your use throughout the semester.\nOnce class begins, you’ll be able to access all materials (including the Course Notes) through the main course website at https://thomaselove.github.io/432-2026/.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Required Texts</span>"
+    ]
+  },
+  {
+    "objectID": "06-texts.html#buy-this-book",
+    "href": "06-texts.html#buy-this-book",
+    "title": "6  Required Texts",
+    "section": "6.2 Buy This Book!",
+    "text": "6.2 Buy This Book!\nYou need to buy Jeff Leek’s How to be a Modern Scientist, available electronically through https://leanpub.com/modernscientist. The suggested cost is $10, but you can pay what you want.\nYou can read the book (which is 81 pages long) in about four hours. We will expect you to have done so by the end of January.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Required Texts</span>"
+    ]
+  },
+  {
+    "objectID": "06-texts.html#other-books-to-download",
+    "href": "06-texts.html#other-books-to-download",
+    "title": "6  Required Texts",
+    "section": "6.3 Other Books to Download",
+    "text": "6.3 Other Books to Download\nThere are three additional free books that you will definitely want to obtain during the semester and may be interested in looking at before class begins. Simply visit the links below.\n\nIntroduction to Modern Statistics by Mine Cetinkaya-Rundel and Johanna Hardin.\nR for Data Science by Garrett Grolemund and Hadley Wickham (first edition). Note that the second edition (work in progress) may be better for our purposes, and is found at https://r4ds.hadley.nz/.\nBiostatistics for Biomedical Research by Frank E. Harrell Jr. The related set of YouTube videos can be found here.\n\nOur 432 Sources page links to additional resources.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Required Texts</span>"
+    ]
+  },
+  {
+    "objectID": "06-texts.html#key-articles-and-posts",
+    "href": "06-texts.html#key-articles-and-posts",
+    "title": "6  Required Texts",
+    "section": "6.4 Key Articles and Posts",
+    "text": "6.4 Key Articles and Posts\nWhile I will recommend dozens, perhaps hundreds of articles, blog posts and the like to you over the course of the year, these are especially important in 432.\n\nSeveral of the guides prepared by Jeff Leek and his group, some of which update ideas from How to be a Modern Scientist, including:\n\nFinally, a Formula for Decoding Health News, from fivethirtyeight.com\nReading academic (scientific) papers,\nWriting your first academic paper\nWrite papers like a modern scientist\nHow to Share Data for Collaboration by Shannon E. Ellis and Jeffrey T. Leek in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version here.\n\nData Organization in Spreadsheets by Karl W. Broman and Kara H. Woo in The American Statistician, 2018 Special Issue on Data Science, or you can read the PeerJ preprint version.\n\nThe Ellis/Leek and Broman/Woo papers are part of the Practical Data Science for Stats collection, which may be of interest.\n\nProject-oriented workflow at tidyverse.org from Jenny Bryan.\nFrom the Ten Simple Rules series at PLOS Computational Biology:\n\nTen Simple Rules for Effective Statistical Practice by Kass RE et al. 2016\nTen Simple Rules for Graduate Students by Gu J Bourne PE 2007\nTen Simple Rules for Better Figures by Rougier NP Droettboom M Bourne PE 2014\nTen Simple Rules for Creating a Good Data Management Plan by Michener WK 2015\n\nStatistical Inference in the 21st Century: A World Beyond p &lt; 0.05 from 2019 in The American Statistician\nThe American Statistical Association’s 2016 Statement on p-Values: Context, Process and Purpose.\n\nDon’t forget that our 432 Sources page links to these and additional resources. Professor Love’s class-specific READMEs will provide additional links to recommended readings as the semester goes on.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Required Texts</span>"
+    ]
+  },
+  {
+    "objectID": "07-assignments.html",
+    "href": "07-assignments.html",
+    "title": "7  Assignments",
+    "section": "",
+    "text": "7.1 Deadlines for Assignments\nCourse assignments include (in increasing order of importance):\nThe header of our main website links to detailed instructions for Projects, Quizzes and Labs.\nAll deadlines are posted as part of the Course Calendar, and the Calendar is the final word for all deadlines.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Assignments</span>"
+    ]
+  },
+  {
+    "objectID": "07-assignments.html#deadlines-for-assignments",
+    "href": "07-assignments.html#deadlines-for-assignments",
+    "title": "7  Assignments",
+    "section": "",
+    "text": "On every assignment, Lab, Quiz, project-related task, whatever, we will be delighted to respond to questions up to 12 hours before the assignment is due. After that time, you may wind up on your own. The reason for this is that Professor Love and the teaching assistants will regularly post responses to frequently asked questions about assignments, and we need sufficient time to accomplish this task.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Assignments</span>"
+    ]
+  },
+  {
+    "objectID": "07-assignments.html#class-participation",
+    "href": "07-assignments.html#class-participation",
+    "title": "7  Assignments",
+    "section": "7.2 Class Participation",
+    "text": "7.2 Class Participation\nWe cannot emphasize enough how much we want to hear from you about things that are relevant to this course.\n\nIf you’re not shy, ask questions during class. Come to the (virtual) TA office hours if you need help.\nContribute to the course with questions, answers and helpful comments. That’ll help us recognize you as someone trying to improve their understanding.\n\n\nIf you find typos in the materials (code, slides, the Notes, this syllabus) send them to us at 431-help at case dot edu.\nSee a cool visualization online? A nice use of statistical methods or design in a paper? Share them with us at 431-help at case dot edu.\n\n\nEmail Professor Love if you want to discuss something that doesn’t fit in a conversation with a TA. Visit with him before or after class. Make an appointment to talk with him if you have something to discuss that doesn’t work well in email.\n\n\nIt’s always helpful if Professor Love knows who you are, and this is an especially difficult thing to achieve with a large class.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Assignments</span>"
+    ]
+  },
+  {
+    "objectID": "07-assignments.html#labs",
+    "href": "07-assignments.html#labs",
+    "title": "7  Assignments",
+    "section": "7.3 Labs",
+    "text": "7.3 Labs\nDuring the semester, there are seven lab assignments scheduled. Professor Love reserves the right to adjust the number of labs depending on how the class is going during the semester.\nThe Course Calendar provides deadlines for all Labs, and instructions for each Lab are available on our main website.\n\nMost labs require straightforward demonstrations of mastery for core principles and fundamental skills. Some require deeper dives into more technically sophisticated material.\nThe labs usually ask you to clean/visualize/analyze some data that we provide to you, and produce a Quarto document.\nYou should anticipate that some coding in R (and Quarto), with detailed annotations and responses in complete English sentences will be required in all labs.\n\nLab assignments are submitted through Canvas. The link to post your responses for each Lab will appear in time for you to submit the work, usually just after the deadline for the preceding Lab has passed.\nEach lab is associated with a deadline. Late work is penalized (see information at the top of each Lab.)\n\n7.3.1 A few tips for Early Lab Work\n\nWhen writing anything for this course in English, use complete sentences, not just bullet points.\nClearly mark each Question in each Lab. There is no need to repeat the question before answering it, although you are welcome to do so.\nYou are welcome to discuss each Lab with anyone, including Professor Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours and Campuswire.\nDon’t leave anything until the last day. Allow time for computer problems.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Assignments</span>"
+    ]
+  },
+  {
+    "objectID": "07-assignments.html#quizzes",
+    "href": "07-assignments.html#quizzes",
+    "title": "7  Assignments",
+    "section": "7.4 Quizzes",
+    "text": "7.4 Quizzes\nDuring the semester, you will have two quizzes to complete. Each quiz is taken online via a Google Form (like the Minute Papers or the Welcome to 432 survey.) Each quiz includes both short-answer and multiple-choice items. The quizzes focus on whether you can apply the tools developed in class to address small problems.\nThe Course Calendar provides deadlines for each of the Quizzes, and the main course website provides links at the top to each Quiz.\nYou will receive access to the quiz several days before it is due, and each quiz will be designed to take about six hours to complete, so the time pressure should be minimal. If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible, at least a week before a Quiz is released.\n\n7.4.1 About the Quizzes\n\nQuizzes typically involve 20-30 questions.\nThe questions are not arranged in any particular order, and you should answer all questions.\nAll questions involve relatively short responses, sometimes after working through a detailed analysis.\nYou will have the opportunity to edit your responses after completing the Quiz, but this must be completed by the deadline.\nYou are welcome (even encouraged) to consult the materials provided on the course website, but you are not allowed to discuss the questions on the Quizzes with anyone other than Professor Love or the teaching assistants.\nWe do not guarantee to answer questions we receive about the Quiz less than 3 hours prior to the Quiz submission deadline. As noted above, we will most likely not use Campuswire for Quiz questions, but instead an alternate approach we will provide to you with each quiz.\nQuizzes that are more than an hour late will not be accepted, except in truly remarkable circumstances.\nAn answer sketch for each Quiz will be made available within 48 hours of the deadline.\nGrades for the Quizzes are usually available within 48 hours of the deadline.\nIf you feel Professor Love has made an error in grading your Quiz, please let him know directly, by email, as soon as possible.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Assignments</span>"
+    ]
+  },
+  {
+    "objectID": "07-assignments.html#projects",
+    "href": "07-assignments.html#projects",
+    "title": "7  Assignments",
+    "section": "7.5 Projects",
+    "text": "7.5 Projects\nDuring the semester, you will have two projects to complete. Complete instructions for Project A and for Project B are available, through the link at the top of our main course website.\n\nProject A anticipates you using materials from 431 and from the first 10 classes of 432.\nProject B anticipates you using materials from the first 21 classes of 432.\n\nThe Course Calendar provides deadlines for all Project elements.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Assignments</span>"
+    ]
+  },
+  {
+    "objectID": "08-grading.html",
+    "href": "08-grading.html",
+    "title": "8  Course Grades",
+    "section": "",
+    "text": "8.1 Grading Breakdown\nOver the past five years, all students taking the course have eventually earned either an “A”, a “B” or an “Incomplete” in 432. I don’t see a reason why this won’t also be the case this year. The course cannot be taken “pass/fail.”\nGrading standards apply in the same way for all students, regardless of whether they are enrolled in PQHS 432, CRSP 432 or MPHP 432. Students in this class are not in competition with each other for grades. I have no set percentage of students who will receive any particular grade. We aim for substantial and timely feedback from the teaching assistants and myself on all elements of the course.\nThe course grade is based on three main areas of demonstrated accomplishment.\nCourse grades are based primarily on performance on labs, projects and quizzes. Your grade on each of these three elements will be determined separately.\nTo obtain your final class score, we will combine these elements as follows:\nProfessor Love will then determine your final course grade using the following scale:\nFor students in the 85.0-87.9% range, students who have improved from the first half of the course to the second will be more likely to receive an A than those whose performance has declined.\nStudents whose course average is near or below 70% usually have failed to complete some element of the course, and need to take an Incomplete to complete their work before I assign a final grade. We follow the University’s Incomplete Policy, as described here.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Course Grades</span>"
+    ]
+  },
+  {
+    "objectID": "08-grading.html#grading-breakdown",
+    "href": "08-grading.html#grading-breakdown",
+    "title": "8  Course Grades",
+    "section": "",
+    "text": "35% for Labs\n40% for Projects\n25% for Quizzes\nplus 0 to 5% for potential “bonus points”\n\n\n\ncourse averages of 88.0% to 100% will receive a A\ncourse averages of 85.0% to 87.9% will be reviewed more closely to determine whether the grade will be A or B\ncourse averages of 70.0% to 84.9% will receive a B",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Course Grades</span>"
+    ]
+  },
+  {
+    "objectID": "08-grading.html#bonus-points",
+    "href": "08-grading.html#bonus-points",
+    "title": "8  Course Grades",
+    "section": "8.2 Bonus Points",
+    "text": "8.2 Bonus Points\nStudents receive bonus credit at Dr. Love’s discretion, based on things like the following. Note that bonus points have a small impact, generally.\n\nfinding typographical or coding errors in Professor Love’s slides, notes and other published materials. Professor Love makes occasional typographic and grammatical errors, which irritate him enormously. Please post to Campuswire the details of any typos or errors you find in this syllabus or any other course materials. If you are the first to let us know, and we make the change, you will receive some credit in your class participation grade.\nasking especially helpful questions in the Minute Papers or on Campuswire\nproviding helpful responses to questions and engaging in the discussion on Campuswire\nidentifying interesting visualizations or uses of ideas we’re discussing in class in the popular or scientific media (this is also done via Campuswire.)\ncompleting (in a timely fashion) special “partially hidden” tasks that Professor Love buries within longer documents to ascertain whether or not you’re reading these documents effectively. For an example, see section 9.7 of this Syllabus.\nplus a few other things that come under the general heading of “being helpful.”\n\nBonus credit is capped across the semester so that no one’s score can fall and that no one’s final score will increase by more than 5 points.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Course Grades</span>"
+    ]
+  },
+  {
+    "objectID": "08-grading.html#grading-labs",
+    "href": "08-grading.html#grading-labs",
+    "title": "8  Course Grades",
+    "section": "8.3 Grading Labs",
+    "text": "8.3 Grading Labs\nMost Labs will be graded by the Teaching Assistants, according to a rubric and answer sketch. In grading labs, everything counts, including the quality of the presentation, as well as the coding and statistical work.\nFor each Lab we publish a detailed answer sketch (48 hours after the submission deadline). Later, when the grades become available (roughly one week after the deadline) you will also receive the grading rubric used by the teaching assistants. You should expect to receive your grade on each Lab you submit on time roughly one week after the deadline. Along with the grade, on-time labs will receive modest feedback about the work.\nAll Labs should be turned in by the deadline specified on the Course Calendar. In this class, it is far better to turn in timely, but only partially complete work than nothing at all. We don’t give extensions on Labs. Instead, we use the following grading policy.\n\nTo receive full credit on a Lab, it must be received on Canvas no later than 59 minutes after the posted deadline. (This allows for small issues with uploading to Canvas to occur without penalty.)\nWork submitted 1 to 48 hours after the deadline will lose 5 of the available 50 points.\nWork submitted more than 48 hours after the deadline will not be graded.\n\nYou are permitted to skip exactly one of Labs 1-4. If you decide to skip a lab, please submit a note to Canvas by the deadline saying that you are skipping the lab. All students must complete Labs 5, 6, and 7. - Should you run the risk of needing to miss more than one lab during the semester, contact Professor Love via email.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Course Grades</span>"
+    ]
+  },
+  {
+    "objectID": "08-grading.html#lab-appeal-policy---request-a-review-via-google-form",
+    "href": "08-grading.html#lab-appeal-policy---request-a-review-via-google-form",
+    "title": "8  Course Grades",
+    "section": "8.4 Lab Appeal Policy - Request a Review via Google Form",
+    "text": "8.4 Lab Appeal Policy - Request a Review via Google Form\nClarification of concerns related to potential typographical or other errors in our Lab answer sketches is welcome at any time, but haggling over points on assignments can be a real time sink in a large class. To that end, students are requested not to dispute any grading on Labs 1-7 during the semester. Instead, should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, you can submit a request for a regrade by Professor Love by submitting the Google Form found at https://bit.ly/432-2026-lab-regrades by the deadline in the Calendar.\nStudents are welcome to ask questions of Professor Love about grading during the term. The TAs and Professor Love are happy to discuss in a general sense any questions about an assignment, but no grades will be changed until the end of the term. - The one exception is if there is a mistake in adding up points, or some similar clerical error. If you find such an issue, please bring it to Professor Love’s attention via email, and such problems will be corrected immediately.\nAt the end of the semester, after Professor Love has worked out what letter grade to give each student, he will go through the requests on the form and determine for each whether the student’s letter grade would change if all of the points in dispute were granted. If the answer is no, then he won’t even look at the disputed grade(s). If the answer is yes, then he will look very carefully to see if enough extra points are merited to change a grade. (It will not help your case to submit frivolous requests.)\nThe main advantage of this system is that it saves all of us the hassle of haggling over points that are never going to mean anything anyway. It also provides “equal access” to students who are too timid to express their concerns. Finally, if there is an issue with grading a particular problem or assignment that needs to be reconsidered, Professor Love will have access to all papers and can make a universal decision1.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Course Grades</span>"
+    ]
+  },
+  {
+    "objectID": "08-grading.html#grading-the-quizzes",
+    "href": "08-grading.html#grading-the-quizzes",
+    "title": "8  Course Grades",
+    "section": "8.5 Grading the Quizzes",
+    "text": "8.5 Grading the Quizzes\nEach quiz will be graded solely by Professor Love. A detailed answer sketch and grading rubric will be provided to you when grades are available, usually within 48 hours of the quiz deadline.\nIn calculating your quiz average for your course grade, Professor Love weights your stronger Quiz performance at 60% and your other Quiz at 40%.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Course Grades</span>"
+    ]
+  },
+  {
+    "objectID": "08-grading.html#grading-the-projects",
+    "href": "08-grading.html#grading-the-projects",
+    "title": "8  Course Grades",
+    "section": "8.6 Grading the Projects",
+    "text": "8.6 Grading the Projects\nSome elements of each project will be graded by Professor Love, and others by the teaching assistants.\nIn calculating your project average for your course grade, I will weight Project A at 40% and Project B at 60%.\nStudents who cannot complete a project (either A or B) in a timely fashion will receive an incomplete grade until both Projects are completed. A penalty will be applied to late work on projects.\nOnce the complete project instructions are available, please contact Professor Love directly if you are in any way concerned about your ability to complete a project on time.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Course Grades</span>"
+    ]
+  },
+  {
+    "objectID": "08-grading.html#late-assignments",
+    "href": "08-grading.html#late-assignments",
+    "title": "8  Course Grades",
+    "section": "8.7 Late Assignments",
+    "text": "8.7 Late Assignments\nIf an emergency arises that will keep you from timely completion of work that has a deadline, like a lab, minute paper, or the like, send an email directly to Professor Love containing the following:\n\nI have an emergency that will keep me from completing (list things you’re worried about completing) in a timely fashion. I will contact you again when I am able to make plans.\n\nProfessor Love will respond with “OK” and temporarily excuse you from things until you send a “re-connection” email to make plans for making up the work you missed, at which time he’ll evaluate the situation and together you can make that plan. At no time do you owe us any information about your health or the nature of the emergency.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Course Grades</span>"
+    ]
+  },
+  {
+    "objectID": "08-grading.html#incomplete-grades",
+    "href": "08-grading.html#incomplete-grades",
+    "title": "8  Course Grades",
+    "section": "8.8 Incomplete Grades",
+    "text": "8.8 Incomplete Grades\nHere is the official University policy:\n\nThe grade of Incomplete is assigned at the discretion of an instructor provided that:\n\n\n\nThere are extenuating circumstances, explained to the instructor before the assignment of the grade, which clearly justify an extension of time beyond the requirements established for other students in the class. It is the student’s responsibility to notify the instructor of the circumstances preventing completion.\n\n\n\n\nThe student has been passing the course and only a small segment of the course remains to be completed, such as a term paper, for which the extenuating circumstances justify a special exception.\n\n\n\nAn Incomplete grade may not be assigned if a student is absent from a final examination, unless the dean has authorized the absence. Unauthorized absence from a final examination will result in a failing grade. When the student completes the work, the Incomplete is changed to an A, B, C, D, P, F, or NP.\n\n\nAll work for the incomplete grade must be made up and the change of grade recorded in the Office of the University Registrar by the date specified by the instructor, but no later than the last day of class in the semester following the one in which the Incomplete was received. A student who has a permanent Incomplete for a required course must retake the course in a later term. If the student cannot complete the work by the end of the following semester, he or she must petition for an extension which must be endorsed by the instructor, explain the reasons why the work has not been completed, and include a new date for completion. Students will be allowed only one extension of no more than one additional semester to complete the work for an Incomplete grade.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Course Grades</span>"
+    ]
+  },
+  {
+    "objectID": "08-grading.html#footnotes",
+    "href": "08-grading.html#footnotes",
+    "title": "8  Course Grades",
+    "section": "",
+    "text": "I got this idea from Jessica Utts.↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Course Grades</span>"
+    ]
+  },
+  {
+    "objectID": "09-advice.html",
+    "href": "09-advice.html",
+    "title": "9  Advice for Students",
+    "section": "",
+    "text": "9.1 On Graduate School\nMy most important piece of general advice to people is to be kind. That’s not always the thing I do as well as I’d like.\nFor graduate students, I urge you to take as much advantage of this learning experience as you can. While I’ll refer to some of the pieces below during the course, I’ve gathered a few favorites here.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Advice for Students</span>"
+    ]
+  },
+  {
+    "objectID": "09-advice.html#on-graduate-school",
+    "href": "09-advice.html#on-graduate-school",
+    "title": "9  Advice for Students",
+    "section": "",
+    "text": "From matt.might.net…\n\n12 Resolutions for Grad Students\nHow to get a great letter of recommendation\nHow to send and reply to email. You might also want to look at Email Etiquette: Guidelines for Writing to Your Professors\n\nFour Things You Should Do When You’re Bored, on YouTube (the four things are Exercise / Read / Meditate / Find and Engage a Hobby with Passion). Also, Get Up and Move. It May Make You Happier by Gretchen Reynolds, in the New York Times, 2017-01-25.\nWhy academics need to focus on structuring their time from University Affairs.\nMost people are really bad at meetings, including Professor Love. In a series of tweets, Greg Wilson argues that “the single most useful training you can give an adult is how to run a meeting and how to participate in someone else’s.” He then provides some nice tips in subsequent tweets, although the link provided there to a blog post is no longer working.\nSome people need help taking notes. You might be interested in Cornell Note Taking or the 5 other methods described here.\nYou may be interested in the American Statistical Association, and its This is Statistics program.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Advice for Students</span>"
+    ]
+  },
+  {
+    "objectID": "09-advice.html#on-seeking-a-job",
+    "href": "09-advice.html#on-seeking-a-job",
+    "title": "9  Advice for Students",
+    "section": "9.2 On Seeking a Job",
+    "text": "9.2 On Seeking a Job\nIf I have a job or internship to offer, I’ll be noisy about it in class. In the meantime, I’d consider joining the American Statistical Association as a student member and perhaps joining the Greater Cleveland R Meetup Group.\nHere are some gathered thoughts from other folks that you might enjoy:\n\nGeneral Advice on an Academic Career Path (which is filled with useful advice, especially for those studying biostatistics.)\nAdvice for Applying to Data Science Jobs from Emily Robinson\nAcademic job search advice from matt.might.net\nCareer Advice for Data Scientists was a panel at rstudio::conf 2020 focused on building a career around R.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Advice for Students</span>"
+    ]
+  },
+  {
+    "objectID": "09-advice.html#on-writing-presenting-communicating",
+    "href": "09-advice.html#on-writing-presenting-communicating",
+    "title": "9  Advice for Students",
+    "section": "9.3 On Writing, Presenting & Communicating",
+    "text": "9.3 On Writing, Presenting & Communicating\nI write all the time. It’s my job. It’s yours, too. You’ll do more of it here than you may be expecting in this class, and in life. So you’ll need to take advantage of every opportunity you have to write more effectively tomorrow than you do today.\nHere’s what I find to be a compelling argument from George Cobb …\n\nIf you want your work with data to make a difference, devote time and effort to choosing the words and pictures you use to present your evidence and conclusions. If you teach or supervise, seek to reward those - they who learn from you, and they who report to you – when they spend time crafting their message.\n\n\nThink back to the last “report” you were expected to read. Is it easy to recall the main points? The answer, yes or no, depends not so much on the quality of the data, the effort, and the thinking that went into the report, nor on your own dutiful diligence in reading the report, but rather, and mainly, on whether the people who wrote the report had learned and practiced the skills of how to use words and pictures, first, to claim attention, and second, to claim retention: to deliver a message that sticks in the mind.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Advice for Students</span>"
+    ]
+  },
+  {
+    "objectID": "09-advice.html#campus-resources",
+    "href": "09-advice.html#campus-resources",
+    "title": "9  Advice for Students",
+    "section": "9.4 Campus Resources",
+    "text": "9.4 Campus Resources\nThe [University Resources for Student Support][University Resources / Student Support] section in this Syllabus links to several important resources for improving your English and your communication skills. We strongly encourage you to take advantage of these resources.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Advice for Students</span>"
+    ]
+  },
+  {
+    "objectID": "09-advice.html#advice-from-other-people",
+    "href": "09-advice.html#advice-from-other-people",
+    "title": "9  Advice for Students",
+    "section": "9.5 Advice from Other People",
+    "text": "9.5 Advice from Other People\n\nPreparing Manuscripts for Submission to Medical Journals: The Paper Trail by H. Gilbert Welch, from Effective Clinical Practice in 1999.\n\nStart early, focus on high-visibility components, develop a systematic approach to the body of the paper, finish strong.\nUse thinkchecksubmit and see this tweet for some related suggestions when selecting a journal or publisher for your work.\n\nWriting a Scientific Paper in Four Easy Steps from Claus Wilke at The Serial Mentor blog.\nRules to write a good research paper from Daniel Lemire.\nHey-here are some tips on communicating data and statistics! from Andrew Gelman 2017-06-02.\nWriting Pet Peeves: Correctness, References, and Style from Tamara Munzner.\nFrank Harrell’s Checklist for Authors of Statistical Problems to Document and to Avoid",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Advice for Students</span>"
+    ]
+  },
+  {
+    "objectID": "09-advice.html#a-few-tips-from-professor-love",
+    "href": "09-advice.html#a-few-tips-from-professor-love",
+    "title": "9  Advice for Students",
+    "section": "9.6 A Few Tips from Professor Love",
+    "text": "9.6 A Few Tips from Professor Love\n\nStatistics is a “getting the details right” business - we care deeply about details, and this applies to writing code or complete English sentences. RStudio has a spell-checker. To use it, click F7.\nNothing impresses us as much as a clear and concise argument, presented using well-written English sentences, effective and well-labeled figures and tables.\nDon’t parrot back material that Professor Love wrote or said. State ideas in your own words. Stating them in my words is, technically, plagiarism.\nEdit your more adventurous output; don’t present everything you know how to do in R, and don’t forget that someone is trying to read both your code and your results.\nMake your work easy to evaluate. In responding to an assignment, be sure to answer the question that was asked, restating it as necessary.\nClearly label everything: graphs, tables, your answer to a specific question. Everything. Again, make your work easy to evaluate.\nSimplify. Emphasize ideas in plain language. Avoid jargon. Use English well.\nData are plural. Use “the data are …” rather than “the data is …”\nA paragraph must contain more than one sentence.\n\nDon’t switch tenses. If you want to write in the present tense, stick to it throughout.\nDon’t write or say random sample unless you used a random number generator. If you used haphazard sampling or convenience sampling, call it what it is, and indicate whether any problems could have cropped up as a result.\nSimilarly, don’t defend a method of data collection because it is random. Most of the time we want to represent some population, and a random sample is just one way to ensure that certain types of biases have a low probability of creeping in.\nIf you want to write that you used \\(\\alpha = 0.05\\) as a significance level, then state that your results were obtained using a 95% confidence level, not a 95% confidence interval, unless you are actually interpreting a confidence interval.\n\nIf you find yourself in the appalling situation of writing about a p-value (as opposed to simply stating it), then you should state something like:\n\n[1] We’re using a 95% confidence level.\n[2] We’re using a 5% significance level.\n\n[3] We’re using \\(\\alpha = 0.05\\).\n\nDon’t use more than one of these expressions.\n\nAlso, refer to all p-values that are less than 0.001 or perhaps less than 0.0001 as \\(p &lt; 0.001\\), rather than, for instance, \\(p = 0.00000001\\) or, worse yet, \\(p = 0\\). In a similar vein, write all \\(p\\)-values that exceed 0.99 as \\(p &gt; 0.99\\) instead of, for instance, \\(p  = 1\\).\nTo the extent possible, don’t use computer-ese to label variables, plots or tables. R and Quarto allow you to change the labels on graphs and tables to meaningful things – do so. Use meaningful abbreviations, as necessary, explaining what they mean on the first usage.\nWhen in doubt, err on the side of clarity. Clear thinking leads to clear writing.\n\nFinally, don’t use the phrase “statistically significant” or “statistically detectable” in your writing. It’s not helpful.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Advice for Students</span>"
+    ]
+  },
+  {
+    "objectID": "09-advice.html#a-bonus-opportunity",
+    "href": "09-advice.html#a-bonus-opportunity",
+    "title": "9  Advice for Students",
+    "section": "9.7 A Bonus Opportunity",
+    "text": "9.7 A Bonus Opportunity\nOnce you have read through this Syllabus, please e-mail Professor Love a note using the subject line 432 Favorite TV Series containing:\n\nthe name of one of your favorite television series\ninformation on how the series can be streamed (if it can, in the US)\na sentence or two describing why you like this series and think others in the class might enjoy it.\n\nIf Professor Love receives your email by 9 AM on Thursday 2026-01-22, he will add some bonus credit to your class participation grade.\nThank you.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Advice for Students</span>"
+    ]
+  },
+  {
+    "objectID": "10-policies.html",
+    "href": "10-policies.html",
+    "title": "10  General Policies",
+    "section": "",
+    "text": "10.1 Attendance\nAll Case Western Reserve University policies apply to this class, including those summarized below. To the extent that those policies are unclear, I would regard an appropriate code of conduct as mirroring this one from the R Consortium.\nAny concerns or questions regarding these general policies, the teaching assistants or the course itself should be directed to Professor Love, if at all possible.\nThings happen, and people occasionally cannot make it to class in person. For 432, we expect all students to attend at least 80% of the planned in-person classes in person.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>General Policies</span>"
+    ]
+  },
+  {
+    "objectID": "10-policies.html#attendance",
+    "href": "10-policies.html#attendance",
+    "title": "10  General Policies",
+    "section": "",
+    "text": "If you need to miss a class session, or even two, just review the materials and move on, and please feel encouraged to ask for help. We record most classes, and make those recordings available on Canvas.\nIf you must miss more than two in-person classes in a row, then it is your responsibility to email Professor Love as soon as possible to let him know. There’s no need to let him know about shorter absences.\n\nAn appropriate email would read “I am unable to attend class on [specific dates] and I will complete all necessary work while I am away.” No additional explanation is required.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>General Policies</span>"
+    ]
+  },
+  {
+    "objectID": "10-policies.html#auditing",
+    "href": "10-policies.html#auditing",
+    "title": "10  General Policies",
+    "section": "10.2 Auditing",
+    "text": "10.2 Auditing\nEnrolled students and teaching assistants are the only people permitted to attend the course without special permission from Professor Love.\n\nI do not permit anyone to audit the course who has not previously taken it, without exception.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>General Policies</span>"
+    ]
+  },
+  {
+    "objectID": "10-policies.html#recordings",
+    "href": "10-policies.html#recordings",
+    "title": "10  General Policies",
+    "section": "10.3 Recordings",
+    "text": "10.3 Recordings\nWe aim to have video recordings available the day after each class session.\n\n“Live” Zoom attendance will not (generally) be possible.\nTechnical problems may occur during the semester with the recordings.\nYou should assume that anything you say in class will be recorded.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>General Policies</span>"
+    ]
+  },
+  {
+    "objectID": "10-policies.html#masks",
+    "href": "10-policies.html#masks",
+    "title": "10  General Policies",
+    "section": "10.4 Masks",
+    "text": "10.4 Masks\nWe strongly encourage you to wear an appropriate mask (or stay home and watch the Zoom recording) if you are ill to reduce the chances of spreading that illness during 432 class meetings for the entire Spring 2026 semester. Professor Love will wear a mask (or pivot to Zoom) if he isn’t feeling well.\n\nMultiple students and teaching assistants in this course either care for small children, those suffering with medical problems, or both.\n\nWe want you to learn lots of things from this class, but we primarily want you to stay healthy, balanced, and grounded during this crisis. We also want to make our classroom space as safe as possible. If you are uncomfortable with this expectation, contact Professor Love immediately.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>General Policies</span>"
+    ]
+  },
+  {
+    "objectID": "10-policies.html#diversity-and-inclusion",
+    "href": "10-policies.html#diversity-and-inclusion",
+    "title": "10  General Policies",
+    "section": "10.5 Diversity and Inclusion",
+    "text": "10.5 Diversity and Inclusion\nIt is our intent that all students regardless of their background and perspective be well-served by this class. Further, we intend to present material whose content is respectful of diversity (gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture) and deliver it in a way that respects these differences as well. We expect that all students, instructors and guests will help foster an atmosphere of respect, trust and safety in the classroom.\nIf you have suggestions for how to make the class content or environment more inclusive, or have specific incidents to report, please reach out to Professor Love directly. If you are not comfortable reaching out to him, please feel encouraged to reach out to someone else, such as the School of Medicine Graduate Education Office (som-geo@case.edu) or the Office of Inclusion, Diversity and Equal Opportunity (OIDEO) (oideo@case.edu). More information on University policy and resources are available on OIDEO’s website at https://case.edu/diversity/.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>General Policies</span>"
+    ]
+  },
+  {
+    "objectID": "10-policies.html#disability-resources",
+    "href": "10-policies.html#disability-resources",
+    "title": "10  General Policies",
+    "section": "10.6 Disability Resources",
+    "text": "10.6 Disability Resources\n\nIn accordance with federal law, if you have a documented disability, you may be eligible to request accommodations from Disability Resources. In order to be considered for accommodations you must first register with the Disability Resources office. Please contact their office to register at 216.368.5230 or visit their website at https://case.edu/studentlife/disability/ to get more information on how to begin the process.\n\nOnce you have registered with Disability Resources, they will contact Professor Love to discuss any necessary arrangements. Please feel encouraged to get in touch with Professor Love directly to discuss any specific concerns you have.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>General Policies</span>"
+    ]
+  },
+  {
+    "objectID": "10-policies.html#laptop-and-cell-phone-use",
+    "href": "10-policies.html#laptop-and-cell-phone-use",
+    "title": "10  General Policies",
+    "section": "10.7 Laptop and cell phone use",
+    "text": "10.7 Laptop and cell phone use\nHere is the official University policy:\n\n“Although having a laptop in class opens up new learning possibilities for students, it can be used in ways that are inappropriate. It is easy for your laptop to become a distraction to you and to those around you. Laptops are to be used only when essential to the task at hand. Please turn off or silence all cell/smart phones, tablets, and other electronic devices for the duration of the course. Inappropriate uses will be noted and may affect the final grade.”\n\nProfessor Love adds that, in this class, the use of a laptop or other device is welcomed, and even encouraged, for taking notes on our slides, or following along with the presentation, or trying out ideas in R, but it is inappropriate for you to use such a machine for activities unrelated to the class during our time together. Silence your phone during class. The temptation to look at your phone or Facebook or email during class is nearly irresistible. Resist anyway, if only to avoid distracting your instructor and your fellow students.\nThank you.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>General Policies</span>"
+    ]
+  },
+  {
+    "objectID": "10-policies.html#academic-integrity",
+    "href": "10-policies.html#academic-integrity",
+    "title": "10  General Policies",
+    "section": "10.8 Academic Integrity",
+    "text": "10.8 Academic Integrity\nHere is the official policy of the University on Academic Integrity.\n\nAny violation of the University’s Code of Ethics will not be tolerated. All forms of academic dishonesty including cheating, plagiarism, misrepresentation, and obstruction are violations of academic integrity standards and will result in a minimum penalty of receiving a zero for the assignment, the potential for failing the entire course. Cheating includes copying from another’s work, falsifying problem solutions or laboratory reports, or using unauthorized sources, notes or computer programs. Plagiarism includes the presentation, without proper attribution, of another’s words or ideas from printed or electronic sources. It is also plagiarism to submit, without the instructor’s consent, an assignment in one class previously submitted in another. Misrepresentation includes forgery of official academic documents, the presentation of altered or falsified documents or testimony to a university office or official, taking an exam for another student, or lying about personal circumstances to postpone tests or assignments. Obstruction occurs when a student engages in unreasonable conduct that interferes with another’s ability to conduct scholarly activity. Destroying a student’s computer file, stealing a student’s notebook, and stealing a book on reserve in the library are examples of obstruction. In addition, the incident will be reported to the Dean of Undergraduate Studies and Academic Review Board for undergraduates or Senior Associate Dean of Graduate Studies, for Graduate Students.\n\nThe CWRU Statement of Ethics for graduate students can be found here: http://case.edu/gradstudies/about-the-school/policies-procedures/",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>General Policies</span>"
+    ]
+  },
+  {
+    "objectID": "10-policies.html#plagiarism",
+    "href": "10-policies.html#plagiarism",
+    "title": "10  General Policies",
+    "section": "10.9 Plagiarism",
+    "text": "10.9 Plagiarism\n\nProfessor Love, and the faculty of the Department of Population & Quantitative Health Sciences expect and require original writing for all assignments given. Submitting plagiarized work for an academic requirement is a violation of the academic integrity standards set forth by the University. Plagiarism is the representation of another’s work or ideas as one’s own; it includes the unacknowledged, word-for-word use and/or paraphrasing of another person’s work, and/or the inappropriate unacknowledged use of another person’s ideas. Submitting substantially the same work to satisfy requirements for one course that has been submitted in satisfaction of requirements for another course, without permission of the instructor of the course for which the work is being submitted, is also prohibited.\n\nIf you have any questions about this policy as it applies to 431, please direct them to Professor Love.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>General Policies</span>"
+    ]
+  },
+  {
+    "objectID": "10-policies.html#university-resources-student-support",
+    "href": "10-policies.html#university-resources-student-support",
+    "title": "10  General Policies",
+    "section": "10.10 University Resources / Student Support",
+    "text": "10.10 University Resources / Student Support\nCase Western Reserve University has a wide range of student support resources on campus. These resources can assist students both in the classroom and outside of it. CWRU offers these resources to enrich and enhance each student’s academic experience and to create an environment that encourages personal growth and development. The Department of Population and Quantitative Health Sciences provides a detailed list on its website in the Resources section. Please take advantage of these resources.\nIn particular, visit https://case.edu/studentsuccess/academic-resources for links to various programs and opportunities to help you learn more effectively. In particular, students needing some help with English, or writing skills will find multiple resources that have proven very helpful in the past.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>General Policies</span>"
+    ]
+  }
+]

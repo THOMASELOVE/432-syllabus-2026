@@ -1,0 +1,79 @@
+# General Policies
+
+All Case Western Reserve University policies apply to this class, including those summarized below. To the extent that those policies are unclear, I would regard an appropriate code of conduct as mirroring  [this one from the R Consortium](https://github.com/RConsortium/RCDI-WG/blob/master/conduct/code-of-conduct.md).
+
+Any concerns or questions regarding these general policies, the teaching assistants or the course itself should be directed to Professor Love, if at all possible.
+
+## Attendance
+
+Things happen, and people occasionally cannot make it to class in person. For 432, we expect all students to attend **at least** 80% of the planned in-person classes in person.
+
+- If you need to miss a class session, or even two, just review the materials and move on, and please feel encouraged to ask for help. We record most classes, and make those recordings available on [Canvas](https://canvas.case.edu/).
+- If you must miss **more than two in-person classes** in a row, then it is your responsibility to email Professor Love as soon as possible to let him know. There's no need to let him know about shorter absences.
+  - An appropriate email would read "I am unable to attend class on [specific dates] and I will complete all necessary work while I am away." No additional explanation is required.
+
+## Auditing 
+
+Enrolled students and teaching assistants are the only people permitted to attend the course without special permission from Professor Love. 
+
+- I do not permit anyone to audit the course who has not previously taken it, without exception. 
+
+## Recordings 
+
+We aim to have video recordings available the day after each class session.
+
+- "Live" Zoom attendance will not (generally) be possible.
+- Technical problems may occur during the semester with the recordings.
+- You should assume that anything you say in class will be recorded.
+  
+## Masks
+
+We strongly encourage you to wear an appropriate mask (or stay home and watch the Zoom recording) if you are ill to reduce the chances of spreading that illness during 432 class meetings for the entire Spring 2026 semester. Professor Love will wear a mask (or pivot to Zoom) if he isn't feeling well.
+
+- Multiple students and teaching assistants in this course either care for small children, those suffering with medical problems, or both. 
+
+We want you to learn lots of things from this class, but we primarily want you to stay healthy, balanced, and grounded during this crisis. We also want to make our classroom space as safe as possible. If you are uncomfortable with this expectation, contact Professor Love immediately.
+
+## Diversity and Inclusion
+
+It is our intent that all students regardless of their background and perspective be well-served by this class. Further, we intend to present material whose content is respectful of diversity (gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture) and deliver it in a way that respects these differences as well. We expect that all students, instructors and guests will help foster an atmosphere of respect, trust and safety in the classroom.  
+
+If you have suggestions for how to make the class content or environment more inclusive, or have specific incidents to report, please reach out to Professor Love directly. If you are not comfortable reaching out to him, please feel encouraged to reach out to someone else, such as the School of Medicine Graduate Education Office (som-geo@case.edu) or the Office of Inclusion, Diversity and Equal Opportunity (OIDEO) (oideo@case.edu). More information on University policy and resources are available on OIDEO’s website at https://case.edu/diversity/.
+
+
+## Disability Resources
+
+> In accordance with federal law, if you have a documented disability, you may be eligible to request accommodations from Disability Resources. In order to be considered for accommodations you must first register with the Disability Resources office. Please contact their office to register at 216.368.5230 or visit their website at https://case.edu/studentlife/disability/ to get more information on how to begin the process. 
+
+Once you have registered with Disability Resources, they will contact Professor Love to discuss any necessary arrangements. Please feel encouraged to get in touch with Professor Love directly to discuss any specific concerns you have.
+
+## Laptop and cell phone use
+
+Here is the official University policy:
+
+> "Although having a laptop in class opens up new learning possibilities for students, it can be used in ways that are inappropriate. It is easy for your laptop to become a distraction to you and to those around you. Laptops are to be used only when essential to the task at hand. Please turn off or silence all cell/smart phones, tablets, and other electronic devices for the duration of the course. Inappropriate uses will be noted and may affect the final grade."
+
+Professor Love adds that, in this class, the use of a laptop or other device is welcomed, and even encouraged, for taking notes on our slides, or following along with the presentation, or trying out ideas in R, but it is inappropriate for you to use such a machine for activities unrelated to the class during our time together. Silence your phone during class. The temptation to look at your phone or Facebook or email during class is nearly irresistible. Resist anyway, if only to avoid distracting your instructor and your fellow students. 
+
+Thank you.
+
+## Academic Integrity
+
+Here is the official policy of the University on Academic Integrity.
+
+> Any violation of the University’s Code of Ethics will not be tolerated. All forms of academic dishonesty including cheating, plagiarism, misrepresentation, and obstruction are violations of academic integrity standards and will result in a minimum penalty of receiving a zero for the assignment, the potential for failing the entire course. Cheating includes copying from another's work, falsifying problem solutions or laboratory reports, or using unauthorized sources, notes or computer programs. Plagiarism includes the presentation, without proper attribution, of another's words or ideas from printed or electronic sources. It is also plagiarism to submit, without the instructor's consent, an assignment in one class previously submitted in another. Misrepresentation includes forgery of official academic documents, the presentation of altered or falsified documents or testimony to a university office or official, taking an exam for another student, or lying about personal circumstances to postpone tests or assignments. Obstruction occurs when a student engages in unreasonable conduct that interferes with another's ability to conduct scholarly activity. Destroying a student's computer file, stealing a student's notebook, and stealing a book on reserve in the library are examples of obstruction. In addition, the incident will be reported to the Dean of Undergraduate Studies and Academic Review Board for undergraduates or Senior Associate Dean of Graduate Studies, for Graduate Students. 
+
+The CWRU Statement of Ethics for graduate students can be found here: 
+http://case.edu/gradstudies/about-the-school/policies-procedures/
+
+## Plagiarism
+
+> Professor Love, and the faculty of the Department of Population & Quantitative Health Sciences expect and require original writing for all assignments given. Submitting plagiarized work for an academic requirement is a violation of the academic integrity standards set forth by the University. Plagiarism is the representation of another's work or ideas as one's own; it includes the unacknowledged, word-for-word use and/or paraphrasing of another person's work, and/or the inappropriate unacknowledged use of another person's ideas. Submitting substantially the same work to satisfy requirements for one course that has been submitted in satisfaction of requirements for another course, without permission of the instructor of the course for which the work is being submitted, is also prohibited.
+
+If you have any questions about this policy as it applies to 431, please direct them to Professor Love.
+
+## University Resources / Student Support
+
+Case Western Reserve University has a wide range of student support resources on campus. These resources can assist students both in the classroom and outside of it. CWRU offers these resources to enrich and enhance each student's academic experience and to create an environment that encourages personal growth and development. The Department of Population and Quantitative Health Sciences provides a detailed list [on its website in the Resources section](https://case.edu/medicine/pqhs/resources/campus-resources). Please take advantage of these resources.
+
+In particular, visit https://case.edu/studentsuccess/academic-resources for links to various programs and opportunities to help you learn more effectively. In particular, students needing some help with English, or writing skills will find multiple resources that have proven very helpful in the past.

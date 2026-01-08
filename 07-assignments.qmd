@@ -1,0 +1,78 @@
+# Assignments
+
+Course assignments include (in increasing order of importance):
+
+- labs
+- quizzes, and
+- projects
+
+The header of our [main website](https://thomaselove.github.io/432-2026/) links to detailed instructions for [Projects](https://thomaselove.github.io/432-2026/projA.html), [Quizzes](https://thomaselove.github.io/432-2026/quiz1.html) and [Labs](https://thomaselove.github.io/432-2026/lab1.html).
+
+## Deadlines for Assignments
+
+All deadlines are posted as part of the [Course Calendar](https://thomaselove.github.io/432-2026/calendar.html), and the Calendar is the final word for all deadlines.
+
+- On every assignment, Lab, Quiz, project-related task, whatever, we will be delighted to respond to questions **up to 12 hours before** the assignment is due. After that time, you *may* wind up on your own. The reason for this is that Professor Love and the teaching assistants will regularly post responses to frequently asked questions about assignments, and we need sufficient time to accomplish this task.
+
+## Class Participation
+
+We cannot emphasize enough how much we want to hear from you about things that are relevant to this course. 
+
+1. If you're not shy, ask questions during class. Come to the (virtual) TA office hours if you need help.
+2. Contribute to the course with questions, answers and helpful comments. That'll help us recognize you as someone trying to improve their understanding.
+  - If you find **typos** in the materials (code, slides, the Notes, this syllabus) send them to us at **431-help at case dot edu**. 
+  - See a cool visualization online? A nice use of statistical methods or design in a paper? Share them with us at **431-help at case dot edu**.
+3.  Email Professor Love if you want to discuss something that doesn't fit in a conversation with a TA. Visit with him before or after class. Make an appointment to talk with him if you have something to discuss that doesn't work well in email. 
+  - It's always helpful if Professor Love knows who you are, and this is an especially difficult thing to achieve with a large class.
+
+## Labs
+
+During the semester, there are **seven** lab assignments scheduled. Professor Love reserves the right to adjust the number of labs depending on how the class is going during the semester. 
+
+The [Course Calendar](https://thomaselove.github.io/432-2026/calendar.html) provides deadlines for all Labs, and instructions for each Lab are available on [our main website](https://thomaselove.github.io/432-2026/).
+
+- Most labs require straightforward demonstrations of mastery for core principles and fundamental skills. Some require deeper dives into more technically sophisticated material. 
+- The labs usually ask you to clean/visualize/analyze some data that we provide to you, and produce a Quarto document.
+- You should anticipate that some coding in R (and Quarto), with detailed annotations and responses in complete English sentences will be required in all labs.
+
+Lab assignments are submitted through [Canvas](https://canvas.case.edu). The link to post your responses for each Lab will appear in time for you to submit the work, usually just after the deadline for the preceding Lab has passed. 
+
+Each lab is associated with a deadline. Late work is penalized (see information at the top of each Lab.)
+
+### A few tips for Early Lab Work
+
+1. When writing anything for this course in English, use complete sentences, not just bullet points.
+2. Clearly mark each Question in each Lab. There is no need to repeat the question before answering it, although you are welcome to do so.
+3. You are welcome to discuss each Lab with anyone, including Professor Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours and Campuswire.
+4. Don't leave anything until the last day. Allow time for computer problems.
+
+## Quizzes
+
+During the semester, you will have two quizzes to complete. Each quiz is taken online via a Google Form (like the Minute Papers or the [Welcome to 432 survey](https://bit.ly/432-2026-welcome-survey).) Each quiz includes both short-answer and multiple-choice items. The quizzes focus on whether you can apply the tools developed in class to address small problems.
+
+The [Course Calendar](https://thomaselove.github.io/432-2026/calendar.html) provides deadlines for each of the Quizzes, and the [main course website](https://thomaselove.github.io/432-2026/) provides links at the top to each Quiz.
+
+You will receive access to the quiz several days before it is due, and each quiz will be designed to take about six hours to complete, so the time pressure should be minimal. **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, at least a week before a Quiz is released. 
+
+### About the Quizzes
+
+1. Quizzes typically involve 20-30 questions. 
+2. The questions are not arranged in any particular order, and you should answer all questions.
+3. All questions involve relatively short responses, sometimes after working through a detailed analysis.
+4. You will have the opportunity to edit your responses after completing the Quiz, but this must be completed by the deadline.
+5. You are welcome (even encouraged) to consult the materials provided on the course website, but you are **not** allowed to discuss the questions on the Quizzes with anyone other than Professor Love or the teaching assistants.
+6. We do not guarantee to answer questions we receive about the Quiz less than 3 hours prior to the Quiz submission deadline. As noted above, we will most likely **not** use Campuswire for Quiz questions, but instead an alternate approach we will provide to you with each quiz.
+7. Quizzes that are more than an hour late will **not** be accepted, except in truly remarkable circumstances.
+8. An answer sketch for each Quiz will be made available within 48 hours of the deadline. 
+9. Grades for the Quizzes are usually available within 48 hours of the deadline. 
+10. If you feel Professor Love has made an error in grading your Quiz, please let him know directly, by email, as soon as possible.
+
+## Projects
+
+During the semester, you will have two projects to complete. Complete instructions for [Project A](https://thomaselove.github.io/432-2026/projA.html) and for [Project B](https://thomaselove.github.io/432-2026/projB.html) are available, through the link at the top of our main course website.
+
+- [Project A](https://thomaselove.github.io/432-2026/projA.html) anticipates you using materials from 431 and from the first 10 classes of 432.
+- [Project B](https://thomaselove.github.io/432-2026/projB.html) anticipates you using materials from the first 21 classes of 432.
+
+The [Course Calendar](https://thomaselove.github.io/432-2026/calendar.html) provides deadlines for all Project elements.
+

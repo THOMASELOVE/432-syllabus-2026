@@ -1,0 +1,41 @@
+# Course Description
+
+PQHS 432 (cross-listed as CRSP 432 and MPHP 432) is the second half of a two-semester sequence (with 431) focused on modern data analysis and advanced statistical modeling, with a practical bent and as little theory as possible. We emphasize the key roles of thinking hard, and well, about design and analysis in research. 
+
+The course is formally titled *Statistical Methods in Biological & Medical Sciences, Part 2.* A more accurate title is **Data Science for Biological, Medical or Health Research**.
+
+We'll learn about managing and visualizing data, building models and making predictions, and other data science activities. This highly applied course focuses on modern tools for learning from data. We'll learn a lot of R, and we'll use RStudio and Quarto as tools to help make R work better, and help perform our research in rigorous and replicable ways.
+
+## Course Objectives
+
+During the 431-432 sequence, students will:
+
+1. Use modern data science tools to import, tidy/manage, explore (through transformation, visualization and modeling) and communicate about data.
+2. Think hard and well about rigorous design and analysis in scientific research.
+3. Gain sufficient background in the practical issues regarding linear and generalized linear models to give you a starting place for meaningful applied work, particularly in terms of making comparisons to address general types of statistical and analytic questions (exploratory, predictive, inferential, and causal, in particular.)
+4. Learn about the importance of replicable research, and develop facility and practice in open source tools for doing it.
+5. Complete a series of assignments (labs, projects and quizzes) designed to help you demonstrate what you've learned. 
+6. Program ("Code") in R sufficiently to accomplish the tasks above, with enough self-sufficiency afterwards to be able to debug and use new R tools without substantial troubleshooting help. What separates "doing data science" from "doing data analysis" is programming.
+
+This is **NOT** a course in mathematical statistics or statistical inference. It's far more applied than that.
+
+## Key Topics in 431-432
+
+1. Exploratory Data Analysis: "All graphs are comparisons" including data exploration, statistical graphics and more general visualization of information.
+2. Placing biological, medical and health research questions into a statistical framework.
+3. Study Development - making choices in designing and executing the collection and aggregation of data.
+4. Data Handling - including important issues in importing, tidying and transforming data, as well as methods for dealing with missing data, including imputation.
+5. Statistical Comparisons: "All of statistics are comparisons" - including methods for discrete and continuous variables: intervals, assumptions, some thoughts on statistical power, and the bootstrap, design of visualizations and models for rates, proportions and contingency tables.
+6. The proper and rigorous use of multi-predictor models for continuous and discrete data, including...
+    - Fitting, evaluating, and interpreting linear and generalized linear models.
+    - Prediction and validation.
+    - Critical role of graphics, including diagnostics and residual analysis.
+    - Model choice, including variable selection, shrinkage and model uncertainty.
+    - Dealing with categorical predictors and interactions meaningfully.
+7. Using R and RStudio to make all of the things above happen; with particular emphasis on doing replicable research and using [Quarto](https://quarto.org/)) to document the work in a replicable way.
+
+## 432 Course Outline & Format
+
+The main group sessions for the 432 course will include two dozen in-person lecture sessions led by Professor Love, to be held on Tuesdays and Thursdays from 1:00 to 2:15 PM.
+
+- The [Course Calendar](https://thomaselove.github.io/432-2026/calendar.html) provides additional detail on specific sessions, and links to materials used in those sessions, including slides.

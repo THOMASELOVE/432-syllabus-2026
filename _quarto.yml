@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "432 Syllabus for Spring 2026"
+  author: "Thomas E. Love"
+  date: last-modified
+  date-format: iso
+  downloads: pdf
+  chapters:
+    - index.qmd
+    - 01-gettingstarted.qmd
+    - 02-description.qmd
+    - 03-drlove.qmd
+    - 04-teachingassistants.qmd
+    - 05-gettinghelp.qmd
+    - 06-texts.qmd
+    - 07-assignments.qmd
+    - 08-grading.qmd
+    - 09-advice.qmd
+    - 10-policies.qmd
+
+format:
+  html:
+    theme: cosmo
+    code-overflow: wrap
+  pdf:
+    documentclass: scrreprt
+
+
+

@@ -1,0 +1,50 @@
+# Getting Help with 432
+
+Data science and statistical programming can be difficult. Computers are stupid and little errors in your code can cause hours of frustration (even if you've been doing this stuff for years!). **You shouldn't spend more than 15 minutes struggling with anything in this class without asking for help.**
+
+We are fully committed to making sure that you learn everything you were hoping to learn from this class. If you tell us you're having trouble, I will not judge you or think less of you. I hope you'll extend me the same grace. You never owe us personal information about your health (mental or physical). If you need extra help, or if you need more time with something, or if you feel like you're behind or not understanding everything, do not suffer in silence! Talk to us! We will work with you.
+
+Once the course begins, you have several ways to get help from us:
+
+## You can email `431-help at case dot edu`
+
+Dr. Love and the TAs monitor this email. Note that we use `431-help` (rather than 432) for this course. 
+
+In general, we don't have a way to diagnose your problem with R, RStudio or Quarto if you don't show us what you're typing that causes an error, or a lack of results. If you wrote a Quarto file, we need to see it, along with a specific question (or series of them) about specific error messages or strange results you are getting. We need to replicate the problem in order to know how to fix your problem, and it also helps if we know what error message you're seeing, or what strange result you are getting.
+
+## TA Office Hours is the place to get one-on-one help for 432
+
+You are strongly encouraged to visit TAs during office hours that are convenient for you, whenever you need help with the course. This is the best way to get one-on-one help, or try out a new idea. 
+
+- Teaching Assistant (TA) office hours will be held via Zoom.
+- The schedule for TA office hours appears on the [Course Calendar](https://thomaselove.github.io/432-2026/calendar.html), and on our [Contact Us](https://thomaselove.github.io/432-2026/contact.html) page.
+- Office Hours are held for your benefit. Please visit the TAs, especially if you have questions about how to do things in R, or about the content of the class slides or course notes. They're volunteering their time to help you, and most of them have been in your shoes in previous years. They want to help you!
+- More [information on the TAs is available here](04-teachingassistants.qmd).
+
+## How We'll Use Canvas
+
+The course's primary listing on [Canvas](https://canvas.case.edu/) is PQHS 432, but students in CRSP 432 and MPHP 432 should find the same information. We'll use the Canvas platform for (at most) two things:
+
+- (definitely) turning in lab and project assignments
+- (maybe) providing information about (and maintaining recordings of) our class sessions
+
+Visit <https://canvas.case.edu/> to log in and see what's available there.
+
+## How We'll Use Google Drive
+
+Professor Love will share some data and some other materials (answer sketches for lab assignments, and feedback on minute papers, as well as a grading roster) through a Shared Google Drive. You will need to log into Google through your CWRU account in order to view and use these materials. Visit the Key Links section of [our course website](https://thomaselove.github.io/432-2026/) to see more.
+
+## Meeting with Professor Love
+
+Professor Love does not hold regular office hours. He will stay after class to address any drop-in student concerns that can be addressed in that setting.
+
+- If you have any unique concerns about the course, need special accommodations or have any other issues you want to discuss with Professor Love specifically, please email him (**Thomas dot Love at case dot edu**) and he'll respond as quickly as possible.
+- Remember that most questions about course materials are best asked through [Campuswire](https://campuswire.com/) or at TA Office Hours so that we can share the answers across all students in the course.
+
+## Other Sources of Help
+
+In addition, there are many, many online resources to help you learn R beyond those we provide. 
+
+- Building internet searches ("googling") effectively is an important skill that requires practice. Don't be afraid to use search engines to figure out how to code things in R, for example.
+- The [RStudio Community](https://community.rstudio.com/) is a forum specifically designed for people using RStudio and the tidyverse (and that will be you.)
+- A comprehensive guide to using Quarto [is available here](https://quarto.org/docs/guide/).

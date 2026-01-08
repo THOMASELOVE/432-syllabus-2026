@@ -1,0 +1,27 @@
+# Welcome! {.unnumbered}
+
+This is the Spring 2026 syllabus for PQHS / CRSP / MPHP 432: Data Science for Biological, Medical and Health Research II, taught by Professor Thomas E. Love. 
+
+## Working With This Document {.unnumbered}
+
+1. This document includes multiple sections. Use the table of contents to navigate, and the search box as needed.
+2. A PDF download of this document is available by clicking the Acrobat icon next to the title at the top left of the screen.
+3. The document will be updated occasionally through the semester.
+
+## Who, When and Where? {-}
+
+- The course instructor is [Professor Thomas E. Love](03-drlove.qmd). 
+    - Email him at **Thomas dot Love at case dot edu** if you have any questions before class.
+- This year's course will be given virtually (via Zoom) until Spring Break, and then in person after that.
+- The course is given in person on Tuesdays and Thursdays from 1:00 to 2:15 PM Eastern Time in Room E321-323 in Robbins Hall, within CWRU's School of Medicine beginning 2026-01-13.
+- The main course website is at <https://thomaselove.github.io/432-2026/>
+- There are several [teaching assistants](04-teachingassistants.qmd) helping with the course this semester.
+    - The Teaching Assistants will hold regular office hours over Zoom, and the schedule for these sessions will be found on the [Contact Us page](https://thomaselove.github.io/432-2026/contact.html) and the [Course Calendar](https://thomaselove.github.io/432-2026/calendar.html).
+
+Outside of class, general questions about course materials in Teaching Assistant Office Hours or via email to `431-help` at `case dot edu` (note that's 431, not 432.) The [Getting Help section](05-gettinghelp.qmd) of this syllabus provides some additional resources.
+
+## Contact Information
+
+Professor Love's email is **Thomas dot Love at case dot edu**. Professor Love's office at CWRU is on the ground floor of the Wood building (in the WG-82 Suite), specifically WG-82J. Email him if you need an appointment, either in person or via Zoom. 
+
+- If you have any unique concerns about the course, need special accommodations or have any other issues you want to discuss with Professor Love specifically, please email him directly.

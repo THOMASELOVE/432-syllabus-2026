@@ -1,0 +1,106 @@
+# Course Grades
+
+Over the past five years, all students taking the course have eventually earned either an "A", a "B" or an "Incomplete" in 432. I don't see a reason why this won't also be the case this year. The course cannot be taken "pass/fail."
+
+## Grading Breakdown
+
+Grading standards apply in the same way for all students, regardless of whether they are enrolled in PQHS 432, CRSP 432 or MPHP 432. Students in this class are not in competition with each other for grades. I have no set percentage of students who will receive any particular grade. We aim for substantial and timely feedback from the teaching assistants and myself on all elements of the course.
+
+The course grade is based on three main areas of demonstrated accomplishment. 
+
+Course grades are based primarily on performance on labs, projects and quizzes. Your grade on each of these three elements will be determined separately. 
+
+To obtain your final class score, we will combine these elements as follows:
+
+- 35% for Labs
+- 40% for Projects
+- 25% for Quizzes
+- plus 0 to 5% for potential "bonus points"
+
+Professor Love will then determine your final course grade using the following scale:
+
+- course averages of 88.0% to 100% will receive a A
+- course averages of 85.0% to 87.9% will be reviewed more closely to determine whether the grade will be A or B
+- course averages of 70.0% to 84.9% will receive a B
+
+For students in the 85.0-87.9% range, students who have improved from the first half of the course to the second will be more likely to receive an A than those whose performance has declined. 
+
+Students whose course average is near or below 70% usually have failed to complete some element of the course, and need to take an Incomplete to complete their work before I assign a final grade. We follow the University's Incomplete Policy, [as described here](10-policies.qmd).
+
+## Bonus Points
+
+Students receive bonus credit at Dr. Love's discretion, based on things like the following. Note that bonus points have a small impact, generally.
+
+- finding typographical or coding errors in Professor Love's slides, notes and other published materials. Professor Love makes occasional typographic and grammatical errors, which irritate him enormously. Please post to Campuswire the details of any typos or errors you find in this syllabus or any other course materials. If you are the first to let us know, and we make the change, you will receive some credit in your class participation grade.
+- asking especially helpful questions in the Minute Papers or on Campuswire
+- providing helpful responses to questions and engaging in the discussion on Campuswire
+- identifying interesting visualizations or uses of ideas we're discussing in class in the popular or scientific media (this is also done via Campuswire.)
+- completing (in a timely fashion) special "partially hidden" tasks that Professor Love buries within longer documents to ascertain whether or not you're reading these documents effectively. For an example, see section 9.7 of this Syllabus.
+- plus a few other things that come under the general heading of "being helpful."
+
+Bonus credit is capped across the semester so that no one's score can fall and that no one's final score will increase by more than 5 points.
+
+## Grading Labs
+
+Most Labs will be graded by the Teaching Assistants, according to a rubric and answer sketch. In grading labs, everything counts, including the quality of the presentation, as well as the coding and statistical work. 
+
+For each Lab we publish a detailed answer sketch (48 hours after the submission deadline). Later, when the grades become available (roughly one week after the deadline) you will also receive the grading rubric used by the teaching assistants. You should expect to receive your grade on each Lab you submit on time roughly one week after the deadline. Along with the grade, on-time labs will receive modest feedback about the work. 
+
+All Labs should be turned in by the deadline specified on the [Course Calendar](https://thomaselove.github.io/432-2026/calendar.html). In this class, it is far better to turn in timely, but only partially complete work than nothing at all. **We don't give extensions on Labs**. Instead, we use the following grading policy.
+
+- To receive full credit on a Lab, it must be received on Canvas no later than 59 minutes after the posted deadline. (This allows for small issues with uploading to Canvas to occur without penalty.)
+- Work submitted 1 to 48 hours after the deadline will lose 5 of the available 50 points.
+- Work submitted more than 48 hours after the deadline will not be graded.
+
+You are permitted to skip exactly one of Labs 1-4. If you decide to skip a lab, please submit a note to Canvas by the deadline saying that you are skipping the lab. All students must complete Labs 5, 6, and 7.
+- Should you run the risk of needing to miss more than one lab during the semester, contact Professor Love via email.
+
+## Lab Appeal Policy - Request a Review via Google Form
+
+Clarification of concerns related to potential typographical or other errors in our Lab answer sketches is welcome at any time, but haggling over points on assignments can be a real time sink in a large class. To that end, students are **requested not to dispute** any grading on Labs 1-7 during the semester. Instead, should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, you can submit a request for a regrade by Professor Love by submitting the Google Form found at <https://bit.ly/432-2026-lab-regrades> by the deadline in the [Calendar](https://thomaselove.github.io/432-2026/calendar.html).
+
+Students are welcome to ask questions of Professor Love about grading during the term. The TAs and Professor Love are happy to discuss in a general sense any questions about an assignment, but no grades will be changed until the end of the term. 
+    - The one exception is if there is a mistake in adding up points, or some similar clerical error. If you find such an issue, please bring it to Professor Love's attention via email, and such problems will be corrected immediately.
+
+At the end of the semester, **after** Professor Love has worked out what letter grade to give each student, he will go through the requests on the form and determine for each whether the student's letter grade would change if all of the points in dispute were granted. If the answer is no, then he won't even look at the disputed grade(s). If the answer is yes, then he will look very carefully to see if enough extra points are merited to change a grade. (It will not help your case to submit frivolous requests.)
+
+The main advantage of this system is that it saves all of us the hassle of haggling over points that are never going to mean anything anyway. It also provides "equal access" to students who are too timid to express their concerns. Finally, if there is an issue with grading a particular problem or assignment that needs to be reconsidered, Professor Love will have access to all papers and can make a universal decision^[I got this idea from Jessica Utts.].
+
+## Grading the Quizzes
+
+Each quiz will be graded solely by Professor Love. A detailed answer sketch and grading rubric will be provided to you when grades are available, usually within 48 hours of the quiz deadline. 
+
+In calculating your quiz average for your course grade, Professor Love weights your stronger Quiz performance at 60% and your other Quiz at 40%.
+
+## Grading the Projects
+
+Some elements of each project will be graded by Professor Love, and others by the teaching assistants.
+
+In calculating your project average for your course grade, I will weight Project A at 40% and Project B at 60%.
+
+Students who cannot complete a project (either A or B) in a timely fashion will receive an incomplete grade until both Projects are completed. A penalty will be applied to late work on projects. 
+
+Once the complete project instructions are available, please contact Professor Love directly if you are in any way concerned about your ability to complete a project on time.
+
+## Late Assignments
+
+If an emergency arises that will keep you from timely completion of work that has a deadline, like a lab, minute paper, or the like, send an email directly to Professor Love containing the following:
+
+> I have an emergency that will keep me from completing (list things you’re worried about completing) in a timely fashion. I will contact you again when I am able to make plans.
+
+Professor Love will respond with “OK” and temporarily excuse you from things until you send a “re-connection” email to make plans for making up the work you missed, at which time he’ll evaluate the situation and together you can make that plan. At no time do you owe us any information about your health or the nature of the emergency.
+
+
+## Incomplete Grades
+
+Here is the official University policy:
+
+> The grade of Incomplete is assigned at the discretion of an instructor provided that:
+
+> 1.	There are extenuating circumstances, explained to the instructor before the assignment of the grade, which clearly justify an extension of time beyond the requirements established for other students in the class. It is the student's responsibility to notify the instructor of the circumstances preventing completion.
+
+> 2.	The student has been passing the course and only a small segment of the course remains to be completed, such as a term paper, for which the extenuating circumstances justify a special exception.
+
+> An Incomplete grade may not be assigned if a student is absent from a final examination, unless the dean has authorized the absence. Unauthorized absence from a final examination will result in a failing grade. When the student completes the work, the Incomplete is changed to an A, B, C, D, P, F, or NP.
+
+> All work for the incomplete grade must be made up and the change of grade recorded in the Office of the University Registrar by the date specified by the instructor, but no later than the last day of class in the semester following the one in which the Incomplete was received. A student who has a permanent Incomplete for a required course must retake the course in a later term. If the student cannot complete the work by the end of the following semester, he or she must petition for an extension which must be endorsed by the instructor, explain the reasons why the work has not been completed, and include a new date for completion. Students will be allowed only one extension of no more than one additional semester to complete the work for an Incomplete grade.
