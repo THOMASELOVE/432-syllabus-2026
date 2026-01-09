@@ -53,6 +53,8 @@ All Labs should be turned in by the deadline specified on the [Course Calendar](
 - Work submitted more than 48 hours after the deadline will receive a grade of 30.
 - You must complete all 7 labs to pass the course. 432 students are not permitted to "skip" a Lab.
 
+We will add up your scores from labs 1-7 (that sum is out of a maximum 320 points) and then divide that sum by 3.1 (rather than 3.2) to determine your Lab Grade.
+
 ## Lab Appeal Policy - Request a Review via Google Form
 
 Clarification of concerns related to potential typographical or other errors in our Lab answer sketches is welcome at any time, but haggling over points on assignments can be a real time sink in a large class. To that end, students are **requested not to dispute** any grading on Labs 1-7 during the semester. Instead, should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, you can submit a request for a regrade by Professor Love by submitting the Google Form found at <https://bit.ly/432-2026-lab-regrades> by the deadline in the [Calendar](https://thomaselove.github.io/432-2026/calendar.html).
