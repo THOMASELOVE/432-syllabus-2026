@@ -12,7 +12,6 @@ This is the Spring 2026 syllabus for PQHS / CRSP / MPHP 432: Data Science for Bi
 
 - The course instructor is [Professor Thomas E. Love](03-drlove.qmd). 
     - Email him at **Thomas dot Love at case dot edu** if you have any questions before class.
-- This year's course will be given virtually (via Zoom) until Spring Break, and then in person after that.
 - The course is given in person on Tuesdays and Thursdays from 1:00 to 2:15 PM Eastern Time in Room E321-323 in Robbins Hall, within CWRU's School of Medicine beginning 2026-01-13.
 - The main course website is at <https://thomaselove.github.io/432-2026/>
 - There are several [teaching assistants](04-teachingassistants.qmd) helping with the course this semester.
