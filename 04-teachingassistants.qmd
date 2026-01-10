@@ -30,7 +30,6 @@ Kathryn Menta | @sec-kathryn | PhD Candidate, Epidemiology & Biostatistics
 Marie Masotya | @sec-marie | PhD candidate, Clinical Translational Science
 Morgan McLoughlin | @sec-morgan | PhD candidate, Clinical Psychology
 Ria Tilve | @sec-ria | MPH at CWRU, Medical Student
-Tatchaporn Ongphichetmetha | @sec-tatchaporn | PhD candidate, Clinical Translational Science
 Wala'a Alshaia | @sec-walaa | PhD candidate, Clinical Translational Science
 
 ### Monika Strah {#sec-monika}
@@ -83,12 +82,6 @@ Morgan McLoughlin is a third-year student in the Clinical Psychology PhD program
 ![Ria Tilve](images/Ria_Tilve.png){width=40%}
 
 Ria Tilve is a third year medical student at CWRU. After completing her bachelor’s in Biochemistry, she obtained her MPH in Population Health Research at CWRU. Her current research focuses on musculoskeletal health and biomedical imaging. Ria took 431 and 432 during the 2021-2022 school year, and she is applying those skills in her research projects. Outside of studying, Ria enjoys spending time with her family, running, watching sports, and exploring new places.
-
-### Tatchaporn Ongphichetmetha {#sec-tatchaporn}
-
-![Tatchaporn Ongphichetmetha](images/tatchaporn.png){width=40%}
-
-Tatchaporn Ongphichetmetha is a Ph.D. student in Clinical Translational Science at CWRU and a research fellow at the Cleveland Clinic Mellen Center for Multiple Sclerosis. Her research interests include autoimmune neurological disorders and multiple sclerosis. She completed her medical degree and neurology training in Thailand. During the 2024-2025 academic year, Tatchaporn took 431 and 432, and she is now applying those skills to her own research projects. Outside of her studies, she enjoys spending time with her family, traveling, and baking.
 
 ### Walaa Alshaia {#sec-walaa}
 
